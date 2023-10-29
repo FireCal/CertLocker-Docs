@@ -1,5 +1,5 @@
 ---
-description: CertLocker. Work. Don't worry.
+description: 'CertLocker: Work. Don''t worry.'
 ---
 
 # Introduction
