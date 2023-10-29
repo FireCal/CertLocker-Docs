@@ -4,7 +4,9 @@
 
 
 
-![](../.gitbook/assets/empty-locker.jpeg)
+
+
+![](../.gitbook/assets/empty-locker.png)
 
 
 

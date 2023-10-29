@@ -27,4 +27,4 @@ layout:
 
 ![](../.gitbook/assets/show-pw-reg.png)
 
-![](../.gitbook/assets/empty-locker.jpeg)
+![](broken-reference)
