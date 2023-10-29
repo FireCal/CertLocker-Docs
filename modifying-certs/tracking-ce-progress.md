@@ -4,11 +4,13 @@
 
 
 
-![](../.gitbook/assets/cert-added.png)
 
 
 
-![](../.gitbook/assets/edit-before.png)
+
+
+
+![](../.gitbook/assets/updated-locker.png)
 
 
 
@@ -16,4 +18,9 @@
 
 
 
-![](../.gitbook/assets/updated-locker.png)
+![](../.gitbook/assets/ces-added.png)
+
+
+
+![](../.gitbook/assets/locker-progress.png)
+
