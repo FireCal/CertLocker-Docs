@@ -42,3 +42,10 @@
 * [App Store (Soon!)](https://firecal.app)
 * [Google Play (Soon!)](https://firecal.app)
 * [Webapp (Soon!)](https://firecal.app)
+
+## Social Media
+
+* [Twitter (aka X)](https://twitter.com/FireCal87505)
+* [Instagram (Soon)](https://firecal.app)
+* [Facebook (Soon)](https://firecal.app)
+* [Threads (Soon)](https://firecal.app)
