@@ -1,0 +1,2 @@
+# Grouping by Type
+
