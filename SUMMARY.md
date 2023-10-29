@@ -14,7 +14,6 @@
 ## Modifying Certs
 
 * [Updating Metadata](modifying-certs/updating-metadata.md)
-* [Grouping by Type](modifying-certs/grouping-by-type.md)
 * [Tracking CE Progress](modifying-certs/tracking-ce-progress.md)
 * [Replacing Attachments](modifying-certs/replacing-attachments.md)
 * [Deleting a Cert](modifying-certs/deleting-a-cert.md)
