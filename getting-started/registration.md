@@ -15,7 +15,11 @@ layout:
 
 # Registration
 
-![](../.gitbook/assets/splash-screen.png)
+
+
+
+
+<img src="../.gitbook/assets/splash-screen.png" alt="" data-size="original">
 
 ![](../.gitbook/assets/blank-reg.png)
 
