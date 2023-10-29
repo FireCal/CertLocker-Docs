@@ -4,7 +4,7 @@ description: 'CertLocker: Work. Don''t worry.'
 
 # Introduction
 
-Welcome to CertLocker (BETA)!
+**Welcome to CertLocker (BETA)!**
 
 This app makes it easy to keep up with all your Certs, Licenses, and Qualifications. In this early version, you can add your Certs, and we'll store them for you in the cloud. Browse your Locker to keep up with your CE progress, then when your renewal date is approaching, we'll send you a reminder. Need to send Certs to your CO? Tap the share button on My Certs, and select the ones they need.&#x20;
 
