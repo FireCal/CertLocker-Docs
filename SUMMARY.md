@@ -27,8 +27,8 @@
 
 ## Support & Feedback
 
-* [Contacting Support](support-and-feedback/contacting-support.md)
-* [Providing Feedback](support-and-feedback/providing-feedback.md)
+* [Support & Bug Reports](support-and-feedback/support-and-bug-reports.md)
+* [Application Feedback](support-and-feedback/application-feedback.md)
 * [Community Roadmap](support-and-feedback/community-roadmap.md)
 * [Suspend Your Account](support-and-feedback/suspend-your-account.md)
 * [Delete Your Data](support-and-feedback/delete-your-data.md)
@@ -46,6 +46,7 @@
 ## Social Media
 
 * [Twitter (aka X)](https://twitter.com/FireCal87505)
+* [LinkedIn (Soon)](https://firecal.app)
 * [Instagram (Soon)](https://firecal.app)
 * [Facebook (Soon)](https://firecal.app)
 * [Threads (Soon)](https://firecal.app)
