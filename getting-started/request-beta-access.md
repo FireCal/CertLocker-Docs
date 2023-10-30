@@ -1,5 +1,5 @@
 ---
-description: CertLocker is currently in Invite-Only BETA
+description: Get in on the Invite-Only BETA
 ---
 
 # Request BETA Access

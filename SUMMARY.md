@@ -11,11 +11,11 @@
 
 ## Cert Upload & Upkeep
 
-* [Adding Certs](cert-upload-and-upkeep/adding-certs.md)
+* [Uploading Certs](cert-upload-and-upkeep/uploading-certs.md)
+* [Updating Cert Data](cert-upload-and-upkeep/updating-cert-data.md)
 * [Viewing Certs](cert-upload-and-upkeep/viewing-certs.md)
 * [Tracking CE Progress](cert-upload-and-upkeep/tracking-ce-progress.md)
 * [Expiration Notifications](cert-upload-and-upkeep/expiration-notifications.md)
-* [Updating Metadata](cert-upload-and-upkeep/updating-metadata.md)
 * [Replacing Attachments](cert-upload-and-upkeep/replacing-attachments.md)
 * [Deleting a Cert](cert-upload-and-upkeep/deleting-a-cert.md)
 
