@@ -8,22 +8,22 @@
 * [Install the App](getting-started/install-the-app.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
-* [Adding Certs](getting-started/adding-certs.md)
 * [Things to Know](getting-started/things-to-know.md)
 
-## Cert Upkeep
+## Cert Upload & Upkeep
 
-* [Viewing Certs](cert-upkeep/viewing-certs.md)
-* [Tracking CE Progress](cert-upkeep/tracking-ce-progress.md)
-* [Expiration Notifications](cert-upkeep/expiration-notifications.md)
-* [Updating Metadata](cert-upkeep/updating-metadata.md)
-* [Replacing Attachments](cert-upkeep/replacing-attachments.md)
-* [Deleting a Cert](cert-upkeep/deleting-a-cert.md)
+* [Adding Certs](cert-upload-and-upkeep/adding-certs.md)
+* [Viewing Certs](cert-upload-and-upkeep/viewing-certs.md)
+* [Tracking CE Progress](cert-upload-and-upkeep/tracking-ce-progress.md)
+* [Expiration Notifications](cert-upload-and-upkeep/expiration-notifications.md)
+* [Updating Metadata](cert-upload-and-upkeep/updating-metadata.md)
+* [Replacing Attachments](cert-upload-and-upkeep/replacing-attachments.md)
+* [Deleting a Cert](cert-upload-and-upkeep/deleting-a-cert.md)
 
-## Sharing Certs
+## Cert Sharing
 
-* [Share a Single Cert](sharing-certs/share-a-single-cert.md)
-* [Bulk Share Certs](sharing-certs/bulk-share-certs.md)
+* [Share a Single Cert](cert-sharing/share-a-single-cert.md)
+* [Bulk Share Certs](cert-sharing/bulk-share-certs.md)
 
 ## Support & Feedback
 
