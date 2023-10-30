@@ -1,11 +1,7 @@
 ---
-description: BETA Installation Instructions for iOS, Android, iPadOS, and macOS
+description: Installation on iOS, Android, iPadOS, and macOS
 ---
 
 # Install the App
 
-## Installing on iOS with TestFlight
-
-
-
-## Installing on Android with Google Play
+Your email invite will include basic instructions for installing CertLocker on the preferred platforms you selected in the Access Request. Detailed instructions for each platform will appear in subpages here in the docs, [or for more hands-on assistance, you can ask our support team for assistance](https://form.asana.com/?k=9ZDd1YrRWfsneFrr01xdug\&d=1107920631423484).
