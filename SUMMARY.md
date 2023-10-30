@@ -8,7 +8,6 @@
 * [Install the App](getting-started/install-the-app.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
-* [Things to Know](getting-started/things-to-know.md)
 
 ## Cert Upload & Upkeep
 
