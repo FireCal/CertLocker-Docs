@@ -37,6 +37,7 @@
 
 * [Release Notes](technical-documentation/release-notes.md)
 * [Privacy Policy](technical-documentation/privacy-policy.md)
+* [Terms of Service](technical-documentation/terms-of-service.md)
 * [FireCal LLC Website](https://firecal.app)
 * [CertLocker Website](https://firecal.app/certlocker)
 * [App Store (Soon!)](https://firecal.app)
