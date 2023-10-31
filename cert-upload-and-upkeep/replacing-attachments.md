@@ -10,9 +10,11 @@ To replace the digital version or image of your Cert with a PDF, tap **Replace P
 
 CertLocker will display an **Uploading** message at the bottom and a **Success** message when it is done. Then you'll be routed to the **PDF Viewer**, where the replacement PDF will be shown.
 
+<figure><img src="../.gitbook/assets/replace" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Replace with Image
 
-For images, you'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert.
+To replace the digital version or image of your Cert with an image, tap **Replace Image**. You'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert. Select your image or take a photo.
 
 CertLocker will display an **Uploading** message at the bottom and a **Success** message when it is done. Then you'll be routed to the **PDF Viewer**, where the replacement PDF will be shown.
 
