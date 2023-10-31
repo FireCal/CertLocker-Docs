@@ -1,26 +1,27 @@
 # Tracking CE Progress
 
+## View in Locker
 
+You can see the recorded **CE Progress** for all your Certs with a glance in your **Locker**. From there, **Tap a Cert** to open the **Edit Cert** page.
 
+<figure><img src="../.gitbook/assets/locker.png" alt="" width="375"><figcaption></figcaption></figure>
 
+## Modify CE Fields
 
+The **CEs Earned** and **CEs Required** fields will autosave if you make changes, and as they do, you'll see the **Recertification Progress** bar recalculate and update to reflect CEs you've earned or changes to the requirements.
 
+<div>
 
+<figure><img src="../.gitbook/assets/progress-60.png" alt=""><figcaption></figcaption></figure>
 
+ 
 
+<figure><img src="../.gitbook/assets/IMG_6379.png" alt=""><figcaption></figcaption></figure>
 
+</div>
 
-![](../.gitbook/assets/updated-locker.png)
+## Return to Locker
 
+Use the **Back Button** to return to your **Locker**, where you'll see your changes reflected.
 
-
-![](../.gitbook/assets/edit-after.png)
-
-
-
-![](../.gitbook/assets/ces-added.png)
-
-
-
-![](../.gitbook/assets/locker-progress.png)
-
+<figure><img src="../.gitbook/assets/locker-progress-updated.png" alt="" width="375"><figcaption></figcaption></figure>
