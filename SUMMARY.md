@@ -23,7 +23,7 @@
 ## Cert Sharing
 
 * [Share a Cert](cert-sharing/share-a-cert.md)
-* [Bulk Share Certs](cert-sharing/bulk-share-certs.md)
+* [Share Multiple Certs](cert-sharing/share-multiple-certs.md)
 
 ## Support & Feedback
 
