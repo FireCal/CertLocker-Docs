@@ -8,6 +8,7 @@
 * [Install the App](getting-started/install-the-app.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
+* [Forgotten Password](getting-started/forgotten-password.md)
 
 ## Cert Upload & Upkeep
 
