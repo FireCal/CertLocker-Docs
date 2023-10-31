@@ -1,2 +1,0 @@
-# Share a Single Cert
-
