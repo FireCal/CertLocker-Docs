@@ -36,7 +36,7 @@ Pick the **Certification Date** when you earned this Cert, then pick the **Expir
 
 <figure><img src="../.gitbook/assets/blank-create.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Finally, to attach a digital version or image of your Cert, tap **PDF** or **Image**. For PDFs, you'll be presented with your device's file picker, and you can navigate to your digital copy of this cert. For images, you'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert.
+Finally, to attach a digital version or image of your Cert, tap **PDF** or **Image**. For PDFs, you'll be presented with your device's file picker, and you can navigate to your digital copy of this cert. For images, you'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert. Select your image or take a photo of your Cert.
 
 CertLocker will display an **Uploading** message at the bottom and a **Success** message when it is done (see the image below). When you're finished, tap **Create**.
 
