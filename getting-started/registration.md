@@ -35,7 +35,7 @@ Make sure your password entries match, and if you need to view them to confirm, 
 
 </div>
 
-## Tap/Click Create Account
+## Tap Create Account
 
 CertLocker will validate your submission, and as long as inputs look good, you're in! If any issues are detected, you should see a notice with instructions on what's wrong (something like password mismatch, invalid email formatting, or email already in use).
 
