@@ -54,4 +54,4 @@ When you're finished, tap **Create**. If any **Required Fields** are missing, or
 
 ## Adding More Certs
 
-After you've added your First Cert, you'll add more Certs using the **FAB** (red circle with "+") at the bottom right of your **Locker,** following the same steps above.
+After you've added your First Cert, add more Certs using the **FAB** (red circle with "+") at the bottom right of your **Locker,** following the same steps above. In the CertLocker BETA, your Locker defaults to sorting by **Expiration Date**, **Type**, and then **Name**.
