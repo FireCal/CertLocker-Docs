@@ -44,11 +44,13 @@ Pick the **Certification Date** when you earned this Cert, then pick the **Expir
 
 </div>
 
-Finally, to attach a digital version or image of your Cert, tap **PDF** or **Image**. For PDFs, you'll be presented with your device's file picker, and you can navigate to your digital copy of this cert. For images, you'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert.
+Finally, to attach a digital version or image of your Cert, tap **PDF** or **Image**.
 
-You'll see a message at the bottom while your attachment is uploading and a **Success** message when it is finished (see the image above).
+For PDFs, you'll be presented with your device's file picker, and you can navigate to your digital copy of this cert. For images, you'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert.
 
-When you're finished, tap **Create**. If any **Required Fields** are missing, or if a valid **Attachment** hasn't been added, CertLocker will prompt you to remedy the issue. If nothing is missing, your Cert will be created, and you'll be routed back to your Locker, where you'll see your **First Cert**!
+CertLocker will display an **Uploading** message at the bottom and a **Success** message when it is finished (see the image above). When you're finished, tap **Create**.
+
+If any **Required Fields** are missing, or if a valid **Attachment** hasn't been added, CertLocker will prompt you to remedy the issue. If nothing is missing, your Cert will be created, and you'll be routed back to your Locker, where you'll see your **First Cert**!
 
 <figure><img src="../.gitbook/assets/cert-added.png" alt="" width="375"><figcaption></figcaption></figure>
 
