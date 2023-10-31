@@ -34,21 +34,15 @@ Add a **Description** or use that field for any notes that you'll find helpful, 
 
 Pick the **Certification Date** when you earned this Cert, then pick the **Expiration Date**. If this Cert never expires, don't select any value, or if you did by mistake, you can tap the circled "X" to reset your **Expiration Date** to **Never**.
 
-<div>
+<figure><img src="../.gitbook/assets/blank-create.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/blank-create.png" alt=""><figcaption></figcaption></figure>
+Finally, to attach a digital version or image of your Cert, tap **PDF** or **Image**. For PDFs, you'll be presented with your device's file picker, and you can navigate to your digital copy of this cert. For images, you'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert.
 
- 
+CertLocker will display an **Uploading** message at the bottom and a **Success** message when it is done (see the image below). When you're finished, tap **Create**.
 
-<figure><img src="../.gitbook/assets/upload-success.png" alt=""><figcaption></figcaption></figure>
+**NOTE**: Image attachments will be saved in the cloud and a PDF will be created for compatibility among all your Certs throughout the app.
 
-</div>
-
-Finally, to attach a digital version or image of your Cert, tap **PDF** or **Image**.
-
-For PDFs, you'll be presented with your device's file picker, and you can navigate to your digital copy of this cert. For images, you'll be asked whether you'd like to select from your device's **Gallery** or use the **Camera** to create an image of your paper Cert.
-
-CertLocker will display an **Uploading** message at the bottom and a **Success** message when it is finished (see the image above). When you're finished, tap **Create**.
+<figure><img src="../.gitbook/assets/upload-success.png" alt="" width="375"><figcaption></figcaption></figure>
 
 If any **Required Fields** are missing, or if a valid **Attachment** hasn't been added, CertLocker will prompt you to remedy the issue. If nothing is missing, your Cert will be created, and you'll be routed back to your Locker, where you'll see your **First Cert**!
 
