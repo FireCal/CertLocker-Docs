@@ -40,14 +40,15 @@
 * [Terms of Service](technical-documentation/terms-of-service.md)
 * [FireCal LLC Website](https://firecal.app)
 * [CertLocker Website](https://firecal.app/certlocker)
-* [App Store (Soon!)](https://firecal.app)
-* [Google Play (Soon!)](https://firecal.app)
-* [Webapp (Soon!)](https://firecal.app)
+* [App Store (Soon!)](https://form.asana.com/?k=V-21Aw0bSqWeXF3BOOvLYw\&d=1107920631423484)
+* [Google Play (Soon!)](https://form.asana.com/?k=V-21Aw0bSqWeXF3BOOvLYw\&d=1107920631423484)
+* [Webapp (Soon!)](https://form.asana.com/?k=V-21Aw0bSqWeXF3BOOvLYw\&d=1107920631423484)
 
 ## Social Media
 
-* [Twitter (aka X)](https://twitter.com/FireCal87505)
-* [LinkedIn (Soon)](https://firecal.app)
-* [Instagram (Soon)](https://firecal.app)
-* [Facebook (Soon)](https://firecal.app)
-* [Threads (Soon)](https://firecal.app)
+* [LinkedIn](https://www.linkedin.com/company/firecal-llc)
+* [Facebook](https://www.facebook.com/profile.php?id=61552961401749)
+* [Instagram](https://instagram.com/firecal\_llc)
+* [Threads](https://www.threads.net/@firecal\_llc)
+* [Twitter](https://twitter.com/FireCal87505)
+* [Youtube](https://www.youtube.com/channel/UCXrQ6tRkI6EBIjJ\_SBB7njg/?themeRefresh=1)
