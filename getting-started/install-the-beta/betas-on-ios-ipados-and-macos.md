@@ -76,6 +76,6 @@ Tap the blue Redeem button, then paste the code you copied earlier (tap in the t
 
 </div>
 
-## Still having problems?
+## Still having trouble?
 
 If you're still having problems, please our Support Team is ready to help. Simply create a Support ticket here: [https://form.asana.com/?k=9ZDd1YrRWfsneFrr01xdug\&d=1107920631423484](https://form.asana.com/?k=9ZDd1YrRWfsneFrr01xdug\&d=1107920631423484)

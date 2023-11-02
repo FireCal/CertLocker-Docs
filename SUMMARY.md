@@ -7,6 +7,7 @@
 * [Request BETA Access](getting-started/request-beta-access.md)
 * [Install the BETA](getting-started/install-the-beta/README.md)
   * [BETAs on iOS, iPadOS & macOS](getting-started/install-the-beta/betas-on-ios-ipados-and-macos.md)
+  * [BETAs on Android](getting-started/install-the-beta/betas-on-android.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
 * [Forgotten Password](getting-started/forgotten-password.md)
