@@ -37,11 +37,11 @@ We've included identity fields like **DL** so down the line, we can help when it
 
 <div>
 
-<figure><img src="../.gitbook/assets/blank-profile.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/blank-profile.PNG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/complete-profile.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/complete-profile.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
