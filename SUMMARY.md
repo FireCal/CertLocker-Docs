@@ -5,7 +5,8 @@
 ## Getting Started
 
 * [Request BETA Access](getting-started/request-beta-access.md)
-* [Install the App](getting-started/install-the-app.md)
+* [Install the App](getting-started/install-the-app/README.md)
+  * [iOS, iPadOS & macOS](getting-started/install-the-app/ios-ipados-and-macos.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
 * [Forgotten Password](getting-started/forgotten-password.md)
