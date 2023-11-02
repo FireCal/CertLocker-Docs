@@ -1,8 +1,8 @@
 ---
-description: 'Step by Step: Using TestFlight'
+description: Step-by-step installation using TestFlight
 ---
 
-# iOS, iPadOS & macOS
+# BETAs on iOS, iPadOS & macOS
 
 ## Install TestFlight
 
@@ -20,7 +20,7 @@ In the invite email, tap/click the blue **"View in TestFlight"** button.
 
 When you tap/click the blue button in the invite email, TestFlight will open if already installed and ask for permission to send notifications, which will alert you when there are updates to the apps you're testing.
 
-## TestFlight Welcome
+## Welcome to TestFlight
 
 TestFlight will then show a Welcome screen with details about the app. **Tap/Click Continue**.
 
