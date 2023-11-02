@@ -31,7 +31,7 @@ Tap **Edit Profile Photo**, and choose whether you want to select an image from 
 
 Complete the fields shown on the **Edit Profile** screen. CertLocker will autosave as you go! If there's anything you would like to exclude, don't worry about it, none of these fields are required.
 
-We've included identity fields like **DL** and **SSN** so down the line, we can help when it comes time to renew Certs that require this information. Don't worry if you'd rather leave them out until we add those features.
+We've included identity fields like **DL** so down the line, we can help when it comes time to renew Certs that require this information. Don't worry if you'd rather leave them out until we add those features.
 
 **IMPORTANT**: Updating your email address in your profile only changes the email address we'll use to contact you. In this early version of CertLocker, to update your login address, [please submit a support request](https://form.asana.com/?k=9ZDd1YrRWfsneFrr01xdug\&d=1107920631423484).
 
