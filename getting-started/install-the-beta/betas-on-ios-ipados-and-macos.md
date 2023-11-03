@@ -32,7 +32,7 @@ The TestFlight home screen is a simple list of apps you're testing. You should f
 
 ## Troubleshooting
 
-### Maybe you opened the email before installing TestFlight
+### if you opened the email before installing TestFlight
 
 If things didn't go as described above, it's most likely a result of opening the link in the email before installing TestFlight, which will take you to the following screen:
 
@@ -40,7 +40,7 @@ If things didn't go as described above, it's most likely a result of opening the
 
 ### Copy the invite code
 
-Select the bold invite code in step three (Tap and hold on iOS/iPadOS, click and drag to select on macOS), then copy it to your clipboard (Tap Copy on iOS/iPadOS. On macOS press Command+C or right-click and choose copy).
+If you find yourself looking at the screen above in your web browser, select the bold invite code in step three (Tap and hold on iOS/iPadOS, click and drag to select on macOS), then copy it to your clipboard (Tap Copy on iOS/iPadOS. On macOS press Command+C or right-click and choose copy).
 
 ### Follow the link to "Get TestFlight from the App Store"
 
