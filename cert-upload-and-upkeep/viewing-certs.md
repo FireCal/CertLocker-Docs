@@ -10,7 +10,7 @@ Tap **View**, and you'll be routed to the PDF Viewer.
 
 <div>
 
-<figure><img src="../.gitbook/assets/view.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/edit-cert.PNG" alt=""><figcaption></figcaption></figure>
 
  
 
