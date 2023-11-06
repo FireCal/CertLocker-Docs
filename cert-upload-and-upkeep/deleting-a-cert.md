@@ -10,10 +10,10 @@ Tap **Delete Cert** at the bottom of the screen, then confirm on the dialog that
 
 <div>
 
-<figure><img src="../.gitbook/assets/tap-delete.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/delete-cert.PNG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/confirm-delete.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/delete-cert-dialog.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
