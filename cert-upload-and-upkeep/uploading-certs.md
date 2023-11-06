@@ -46,7 +46,7 @@ CertLocker will display an **Uploading** message at the bottom and a **Success**
 
 If any **Required Fields** are missing, or if a valid **Attachment** hasn't been added, CertLocker will prompt you to remedy the issue. If nothing is missing, your Cert will be created, and you'll be routed back to your Locker, where you'll see your **First Cert**!
 
-<figure><img src="../.gitbook/assets/cert-added.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/my-certs-added.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Adding More Certs
 
