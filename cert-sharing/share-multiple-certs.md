@@ -8,7 +8,7 @@ Tap the **Multiselect Checkboxes** beside the Certs you'd like to share, and you
 
 <div>
 
-<figure><img src="../.gitbook/assets/locker-to-share.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/my-certs-progress.PNG" alt=""><figcaption></figcaption></figure>
 
  
 
