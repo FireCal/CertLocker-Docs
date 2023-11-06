@@ -10,11 +10,11 @@ Make your changes to the **Name**, **Type**, and **Description** text fields, an
 
 <div>
 
-<figure><img src="../.gitbook/assets/edit-before.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/edit-cert.PNG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/edit-after.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/edit-cert-added-ces.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
