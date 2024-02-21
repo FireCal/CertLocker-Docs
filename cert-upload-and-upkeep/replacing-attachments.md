@@ -10,7 +10,7 @@ To replace the digital version or image of your Cert with a PDF, tap **Replace P
 
 CertLocker will display an **Uploading** message at the bottom and a **Success** message when it is done. Then you'll be routed to the **PDF Viewer**, where the replacement PDF will be shown.
 
-<figure><img src="../.gitbook/assets/edit-cert.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Edit (After) (1).PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Replace with Image
 
