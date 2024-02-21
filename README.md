@@ -6,7 +6,7 @@ description: 'CertLocker: Work. Don''t worry.'
 
 **Welcome to CertLocker (BETA)!**
 
-Our app makes it easy to keep up with all the mission critical Certs, Licenses, and Qualifications for your entire organization, as well as your professional colleagues and friends.
+Our app makes it easy to keep up with all the mission critical Certs, Licenses, and Qualifications for your entire organization, as well as those earned by your professional colleagues and friends.
 
 To get started, add your Certs, and we'll store them for you in the cloud. Browse your Locker to keep up with your CE progress, then when your renewal date is approaching, we'll send you a reminder.
 

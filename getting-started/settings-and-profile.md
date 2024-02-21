@@ -16,7 +16,7 @@ Tapping on the Settings navbar item at the bottom of the screen will bring you t
 
 ## Edit Profile
 
-Tap on the Edit Profile button to navigate to the Edit Profile screen.
+Tap on the **Edit Profile** button to navigate to the Edit Profile screen.
 
 ## Update Your Profile Photo
 
@@ -32,7 +32,7 @@ Complete the fields shown on the **Edit Profile** screen. CertLocker will autosa
 
 ## Preview Your Profile
 
-When you've updated your profile image and entered all your personal details, to preview your profile, click the View button in the top right corner of the Edit Profile screen. This will take you to the My Profile screen, where you can see what your profile will look like to other users in CertLocker. Tap the Close button to return to the Edit Profile screen.
+When you've updated your profile image and entered all your personal details, to preview your profile, click the **View** button in the top right corner of the **Edit Profile** screen. This will take you to the **My Profile** screen, where you can see what your profile will look like to other users in CertLocker. Tap the **Close** button to return to the **Edit Profile** screen.
 
 <figure><img src="../.gitbook/assets/My Profile.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
