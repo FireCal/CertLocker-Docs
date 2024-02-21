@@ -6,7 +6,7 @@ When looking at your Locker, **Tap a Cert** to open the **Edit Cert** page, then
 
 ## Tap View
 
-Tap **View**, and you'll be routed to the PDF Viewer.
+Tap **View**, and you'll be routed to the **PDF Viewer**.
 
 <div>
 
