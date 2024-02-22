@@ -8,11 +8,11 @@ Tap the **Multiselect Checkboxes** beside the Certs you'd like to share, and you
 
 <div>
 
-<figure><img src="../.gitbook/assets/my-certs-progress.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/My Certs After Update.PNG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/multi-share.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Share Multiselect.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
