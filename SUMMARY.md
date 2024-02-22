@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Getting Started
 
+* [Introduction](README.md)
 * [Request BETA Access](getting-started/request-beta-access.md)
 * [Install the BETA](getting-started/install-the-beta/README.md)
   * [BETAs on iOS, iPadOS & macOS](getting-started/install-the-beta/betas-on-ios-ipados-and-macos.md)
@@ -12,20 +11,39 @@
 * [Settings & Profile](getting-started/settings-and-profile.md)
 * [Forgotten Password](getting-started/forgotten-password.md)
 
-## Cert Upload & Upkeep
+## Certs
 
-* [Uploading Certs](cert-upload-and-upkeep/uploading-certs.md)
-* [Updating Cert Data](cert-upload-and-upkeep/updating-cert-data.md)
-* [Replacing Attachments](cert-upload-and-upkeep/replacing-attachments.md)
-* [Viewing Certs](cert-upload-and-upkeep/viewing-certs.md)
-* [Tracking CE Progress](cert-upload-and-upkeep/tracking-ce-progress.md)
-* [Expiration Notifications](cert-upload-and-upkeep/expiration-notifications.md)
-* [Deleting a Cert](cert-upload-and-upkeep/deleting-a-cert.md)
+* [Uploading Certs](certs/uploading-certs.md)
+* [Updating Cert Data](certs/updating-cert-data.md)
+* [Replacing Attachments](certs/replacing-attachments.md)
+* [Viewing Certs](certs/viewing-certs.md)
+* [Tracking CE Progress](certs/tracking-ce-progress.md)
+* [Expiration Notifications](certs/expiration-notifications.md)
+* [Deleting a Cert](certs/deleting-a-cert.md)
+* [Share a Cert](certs/share-a-cert.md)
+* [Share Multiple Certs](certs/share-multiple-certs.md)
 
-## Cert Sharing
+## Organizations
 
-* [Share a Cert](cert-sharing/share-a-cert.md)
-* [Share Multiple Certs](cert-sharing/share-multiple-certs.md)
+* [My Orgs](organizations/my-orgs/README.md)
+  * [Create an Org](organizations/my-orgs/create-an-org.md)
+  * [Find an Org](organizations/my-orgs/find-an-org.md)
+  * [Manage My Invites](organizations/my-orgs/manage-my-invites.md)
+  * [Manage My Requests](organizations/my-orgs/manage-my-requests.md)
+* [Org Administration](organizations/org-administration/README.md)
+  * [Edit Org Profile](organizations/org-administration/edit-org-profile.md)
+  * [Invite Member](organizations/org-administration/invite-member.md)
+  * [Manage Members](organizations/org-administration/manage-members.md)
+  * [Manage Invites](organizations/org-administration/manage-invites.md)
+  * [Manage Requests](organizations/org-administration/manage-requests.md)
+
+## Sharing
+
+* [Finding User to Follow](sharing/finding-user-to-follow.md)
+* [Manage Following List](sharing/manage-following-list.md)
+* [Manage Followers List](sharing/manage-followers-list.md)
+* [Viewing User Profiles](sharing/viewing-user-profiles.md)
+* [Viewing User Certs](sharing/viewing-user-certs.md)
 
 ## Support & Feedback
 
