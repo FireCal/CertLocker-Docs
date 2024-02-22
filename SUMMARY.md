@@ -27,7 +27,7 @@
 
 * [My Orgs](organizations/my-orgs/README.md)
   * [Create an Org](organizations/my-orgs/create-an-org.md)
-  * [Find an Org](organizations/my-orgs/find-an-org.md)
+  * [Finding & Joining Orgs](organizations/my-orgs/finding-and-joining-orgs.md)
   * [Manage My Invites](organizations/my-orgs/manage-my-invites.md)
   * [Manage My Requests](organizations/my-orgs/manage-my-requests.md)
 * [Org Administration](organizations/org-administration/README.md)
