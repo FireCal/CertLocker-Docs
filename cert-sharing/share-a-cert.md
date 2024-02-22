@@ -6,11 +6,11 @@ When looking at your Locker, **Tap a Cert** to open the **Edit Cert** page. Tap 
 
 <div>
 
-<figure><img src="../.gitbook/assets/my-certs-progress.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/My Certs After Update.PNG" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/edit-cert-ces.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Update CE After.PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
