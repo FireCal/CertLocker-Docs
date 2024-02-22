@@ -13,15 +13,15 @@
 
 ## Certs
 
-* [Uploading Certs](certs/uploading-certs.md)
-* [Updating Cert Data](certs/updating-cert-data.md)
-* [Replacing Attachments](certs/replacing-attachments.md)
-* [Viewing Certs](certs/viewing-certs.md)
-* [Tracking CE Progress](certs/tracking-ce-progress.md)
-* [Expiration Notifications](certs/expiration-notifications.md)
-* [Deleting a Cert](certs/deleting-a-cert.md)
-* [Share a Cert](certs/share-a-cert.md)
-* [Share Multiple Certs](certs/share-multiple-certs.md)
+* [Uploading Certs](cert-upload-and-upkeep/uploading-certs.md)
+* [Updating Cert Data](cert-upload-and-upkeep/updating-cert-data.md)
+* [Replacing Attachments](cert-upload-and-upkeep/replacing-attachments.md)
+* [Viewing Certs](cert-upload-and-upkeep/viewing-certs.md)
+* [Tracking CE Progress](cert-upload-and-upkeep/tracking-ce-progress.md)
+* [Expiration Notifications](cert-upload-and-upkeep/expiration-notifications.md)
+* [Deleting a Cert](cert-upload-and-upkeep/deleting-a-cert.md)
+* [Share a Cert](cert-sharing/share-a-cert.md)
+* [Share Multiple Certs](cert-sharing/share-multiple-certs.md)
 
 ## Organizations
 
