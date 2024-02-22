@@ -11,17 +11,17 @@
 * [Settings & Profile](getting-started/settings-and-profile.md)
 * [Forgotten Password](getting-started/forgotten-password.md)
 
-## Certs
+## My Certs
 
-* [Uploading Certs](cert-upload-and-upkeep/uploading-certs.md)
-* [Updating Cert Data](cert-upload-and-upkeep/updating-cert-data.md)
-* [Replacing Attachments](cert-upload-and-upkeep/replacing-attachments.md)
-* [Viewing Certs](cert-upload-and-upkeep/viewing-certs.md)
-* [Tracking CE Progress](cert-upload-and-upkeep/tracking-ce-progress.md)
-* [Expiration Notifications](cert-upload-and-upkeep/expiration-notifications.md)
-* [Deleting a Cert](cert-upload-and-upkeep/deleting-a-cert.md)
-* [Share a Cert](cert-sharing/share-a-cert.md)
-* [Share Multiple Certs](cert-sharing/share-multiple-certs.md)
+* [Uploading Certs](my-certs/uploading-certs.md)
+* [Updating Cert Data](my-certs/updating-cert-data.md)
+* [Replacing Attachments](my-certs/replacing-attachments.md)
+* [Viewing Certs](my-certs/viewing-certs.md)
+* [Tracking CE Progress](my-certs/tracking-ce-progress.md)
+* [Expiration Notifications](my-certs/expiration-notifications.md)
+* [Deleting a Cert](my-certs/deleting-a-cert.md)
+* [Share a Cert](my-certs/share-a-cert.md)
+* [Share Multiple Certs](my-certs/share-multiple-certs.md)
 
 ## Organizations
 
@@ -39,6 +39,8 @@
 
 ## Sharing
 
+* [Share a Cert](sharing/share-a-cert.md)
+* [Share Multiple Certs](sharing/share-multiple-certs.md)
 * [Finding User to Follow](sharing/finding-user-to-follow.md)
 * [Manage Following List](sharing/manage-following-list.md)
 * [Manage Followers List](sharing/manage-followers-list.md)
