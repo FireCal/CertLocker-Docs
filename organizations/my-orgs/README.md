@@ -22,7 +22,7 @@ Your status with each organization might be one of the following:
 
 To view more info about any organization, tap the **Org Card**, and you'll be taken to the **Org Profile**.
 
-<figure><img src="../../.gitbook/assets/Org_Profile.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Org_Profile (1).PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Removing Organizations
 

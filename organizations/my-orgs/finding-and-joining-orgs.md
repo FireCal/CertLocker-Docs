@@ -8,7 +8,7 @@ To find any **Orgs** you belong to, tap the **Search** tab. As you type the name
 
  
 
-<figure><img src="../../.gitbook/assets/Search_Results.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Search_Results (1).PNG" alt=""><figcaption></figcaption></figure>
 
 </div>
 
