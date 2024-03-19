@@ -41,7 +41,7 @@
 
 * [Share a Cert](sharing/share-a-cert.md)
 * [Share Multiple Certs](sharing/share-multiple-certs.md)
-* [Finding User to Follow](sharing/finding-user-to-follow.md)
+* [Find Users to Follow](sharing/find-users-to-follow.md)
 * [Manage Following List](sharing/manage-following-list.md)
 * [Manage Followers List](sharing/manage-followers-list.md)
 * [Viewing User Profiles](sharing/viewing-user-profiles.md)
