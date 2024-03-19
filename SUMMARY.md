@@ -45,7 +45,7 @@
 * [Manage Following List](sharing/manage-following-list.md)
 * [Manage Followers List](sharing/manage-followers-list.md)
 * [Viewing User Profiles](sharing/viewing-user-profiles.md)
-* [Viewing User Certs](sharing/viewing-user-certs.md)
+* [Viewing & Sharing User Certs](sharing/viewing-and-sharing-user-certs.md)
 
 ## Support & Feedback
 
