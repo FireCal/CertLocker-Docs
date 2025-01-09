@@ -1,31 +1,75 @@
+---
+description: >-
+  By downloading or using the CertLocker app, you agree to these terms. Please
+  read them carefully before using the app.
+---
+
 # Terms of Service
 
-_By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to FireCal LLC._
+**Intellectual Property**
 
-_FireCal LLC is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for._
+You are prohibited from copying, modifying, or reverse-engineering the app or its components, including source code, trademarks, and intellectual property. All rights, including trademarks, copyrights, and database rights, belong to FireCal LLC.
 
-_By using the CertLocker app, you consent to receiving notifications related to the app’s services through the delivery methods you have enabled in your preferences (e.g., push notifications, in-app messages, email, SMS/MMS - messaging rates may apply). Utilization of any notification method are not required for purchase. Unsubscribe from notification methods by following the specific instructions provided (e.g., reply STOP for SMS/MMS or click unsubscribe for email), and these notification preferences can be adjusted in the app settings at any time to stop receiving notifications by any method. If you disable certain delivery methods, you may not receive critical updates or reminders related to certifications and other app functionalities._
+**Notifications**
 
-_The CertLocker app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the CertLocker app won’t work properly or at all._
+By using the CertLocker app, you consent to receiving notifications through the methods enabled in your preferences (e.g., push notifications, in-app messages, email, SMS/MMS). Messaging rates may apply for SMS/MMS notifications. Notifications are optional and not required for app usage or purchases. You can unsubscribe from notifications at any time by following specific instructions (e.g., replying STOP for SMS/MMS or clicking “Unsubscribe” in emails) or updating your preferences in the app settings. Note: Disabling certain delivery methods may result in missed critical updates or reminders related to certifications and app functionalities.
 
-_You should be aware that there are certain things that FireCal LLC will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but FireCal LLC cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left._
+**Privacy Policy**
 
-_If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app._
+By using the CertLocker app, you agree to the collection, use, and storage of your data as outlined in our Privacy Policy, available at [https://docs.certlocker.app/technical-documentation/privacy-policy](https://docs.certlocker.app/technical-documentation/privacy-policy). Please review it carefully.
 
-_Along the same lines, FireCal LLC cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, FireCal LLC cannot accept responsibility._
+**User Content and Conduct**
 
-_With respect to FireCal LLC’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. FireCal LLC accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app._
+You are responsible for all content you upload, share, or otherwise make available via the app. Content uploaded must align with the app’s purpose: tracking certifications and related information. Users must not use the app to store, share, or distribute any unrelated, illicit, or illegal content. FireCal LLC reserves the right to remove any content or restrict access to users who violate these terms.
 
-_At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for the both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. FireCal LLC does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device._
+**Third-Party Services**
 
-_Changes to These Terms of Service_
+The CertLocker app may use third-party services to deliver certain features (e.g., notifications, messaging, email, and data storage). FireCal LLC is not responsible for the performance, accuracy, or reliability of these services. By using the app, you agree to the terms and conditions of any third-party services integrated into the app.
 
-_We may update our Terms of Service from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page._
+**Indemnification**
 
-_These terms of service are effective as of 2023-10-01_
+You agree to indemnify, defend, and hold harmless FireCal LLC, its affiliates, officers, and employees from and against any claims, damages, liabilities, costs, and expenses (including legal fees) arising from your use of the app, violation of these Terms of Service, or infringement of any third-party rights. This includes any misuse of the app that results in harm or legal consequences to FireCal LLC or other users.
 
-_Contact Us_
+**Dispute Resolution**
 
-_If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us at contact@firecal.app._
+Any disputes arising from these Terms of Service or your use of the CertLocker app shall be resolved through binding arbitration, in accordance with the rules of the American Arbitration Association. The arbitration shall take place in Santa Fe, New Mexico, and the decision of the arbitrator shall be final and binding. Users waive the right to participate in any class action lawsuits related to these Terms.
 
-_This Terms of Service page was generated by_ [_App Privacy Policy Generator_](https://app-privacy-policy-generator.nisrulz.com/)
+**Disclaimer of Warranties**
+
+The CertLocker app is provided “as is” and “as available,” without any warranties, express or implied. FireCal LLC does not warrant that the app will be error-free, uninterrupted, or meet your specific requirements.
+
+**Termination of Accounts**
+
+FireCal LLC reserves the right to suspend or terminate your account at any time, for any reason, including but not limited to violation of these Terms of Service, suspected fraudulent activity, or misuse of the app. Termination decisions are at FireCal LLC’s sole discretion and are not subject to appeal. Upon termination, all rights granted to you will cease, and you must delete the app from your device.
+
+**Data and Device Security**
+
+The CertLocker app stores and processes personal data you provide to deliver its services. You are responsible for keeping your device and app access secure. We strongly discourage jailbreaking or rooting your device, as it may compromise its security and the app’s functionality.
+
+**Internet and Data Usage**
+
+The app requires an active internet connection (Wi-Fi or mobile data). FireCal LLC is not responsible for any limitations resulting from connectivity issues or insufficient data allowance. Users are responsible for any data or roaming charges incurred while using the app, as per their agreement with their mobile provider. If you are not the bill payer, we assume you have obtained the necessary permissions.
+
+**User Responsibilities**
+
+You are responsible for keeping your device functional (e.g., charged and operational). FireCal LLC is not liable for any inconvenience or loss caused by device malfunctions or your inability to access the app.
+
+**Limitation of Liability**
+
+While we strive to keep the app accurate and up-to-date, FireCal LLC relies on third-party services and cannot guarantee uninterrupted or error-free operation. We are not liable for direct or indirect losses resulting from reliance on the app’s functionality or third-party information.
+
+**Updates and Termination**
+
+We may update the app periodically to ensure compatibility with new operating system versions or to enhance features. You agree to install updates when prompted to maintain app functionality. FireCal LLC may terminate app services at any time without prior notice. Upon termination, all rights granted to you will end, and you must delete the app from your device.
+
+**Changes to These Terms**
+
+We may update these Terms of Service periodically. You are encouraged to review this page for updates. Changes take effect upon posting the revised terms here.
+
+**Effective Date**
+
+These Terms of Service are effective as of January 9, 2025.
+
+**Contact Us**
+
+If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us at [contact@firecal.app](mailto:contact@firecal.app).
