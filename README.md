@@ -4,13 +4,15 @@ description: 'CertLocker: Work. Don''t worry.'
 
 # Introduction
 
-**Welcome to CertLocker (BETA)!**
+**Welcome to CertLocker!**
 
-Our app makes it easy to keep up with all the mission critical Certs, Licenses, and Qualifications for your entire organization, as well as those earned by your professional colleagues and friends.
+Our app makes it easy to keep up with all the mission critical Certs, Licenses, and Qualifications for you and your entire organization, as well as those earned by your professional colleagues and friends.
 
-To get started, add your Certs, and we'll store them for you in the cloud. Browse your Locker to keep up with your CE progress, then when your renewal date is approaching, we'll send you a reminder.
+To get started, **add your Certs**, and we'll store them for you in the cloud. Browse your Locker to **keep up with your CE progress**, then when your renewal date is approaching, **we'll send you a reminder**.
 
-Create or join the organizations where you work, and invite all the members who work there to take the friction out of verifying and maintaining compliance by keeping all member certifications and licenses current.
+Create or **join the organizations where you work**, and invite all the members who work there to **verify and maintain compliance** by keeping all member certifications and licenses current.
+
+With CertLocker, you can also **track your training, and the training records of everyone in your Organization**, applying CEs for those trainings to the right Certs, and even **generating training completion certificates** for your members to submit to the appropriate certifying agencies at renewal time.
 
 If you're working on CEs with friends who also work in the field, follow each other in the app to provide accountability and stay on track for renewal.
 
