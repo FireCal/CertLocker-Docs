@@ -1,8 +1,8 @@
 ---
-description: Get in on the Invite-Only BETA
+description: Help us test new CertLocker features, before they're out!
 ---
 
-# Request BETA Access
+# Join the BETAs
 
 We're releasing our first versions of CertLocker as invite-only, so we can manage the load on our systems, and make sure we've stabilized any unforseen issues, before we roll out more broadly.
 

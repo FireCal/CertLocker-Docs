@@ -3,13 +3,15 @@
 ## Getting Started
 
 * [Introduction](README.md)
-* [Request BETA Access](getting-started/request-beta-access.md)
-* [Install the BETA](getting-started/install-the-beta/README.md)
-  * [BETAs on iOS, iPadOS & macOS](getting-started/install-the-beta/betas-on-ios-ipados-and-macos.md)
-  * [BETAs on Android](getting-started/install-the-beta/betas-on-android.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
+* [Org Powers](getting-started/org-powers.md)
+* [Tips & Tricks](getting-started/tips-and-tricks.md)
 * [Forgotten Password](getting-started/forgotten-password.md)
+* [Join the BETAs](getting-started/join-the-betas.md)
+* [Install BETA Releases](getting-started/install-beta-releases/README.md)
+  * [BETAs on iOS, iPadOS & macOS](getting-started/install-beta-releases/betas-on-ios-ipados-and-macos.md)
+  * [BETAs on Android](getting-started/install-beta-releases/betas-on-android.md)
 
 ## My Certs
 
