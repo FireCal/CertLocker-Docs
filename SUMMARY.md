@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
-* [Org Powers](getting-started/org-powers.md)
+* [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
 * [Tips & Tricks](getting-started/tips-and-tricks.md)
 * [Forgotten Password](getting-started/forgotten-password.md)
 * [Join the BETAs](getting-started/join-the-betas.md)
