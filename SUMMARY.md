@@ -25,11 +25,11 @@
 
 ## Organizations
 
-* [My Orgs](organizations/my-orgs/README.md)
-  * [Create an Org](organizations/my-orgs/create-an-org.md)
-  * [Finding & Joining Orgs](organizations/my-orgs/finding-and-joining-orgs.md)
-  * [Manage My Invites](organizations/my-orgs/manage-my-invites.md)
-  * [Manage My Requests](organizations/my-orgs/manage-my-requests.md)
+* [Orgs](organizations/orgs/README.md)
+  * [Create an Org](organizations/orgs/create-an-org.md)
+  * [Finding & Joining Orgs](organizations/orgs/finding-and-joining-orgs.md)
+  * [Manage My Invites](organizations/orgs/manage-my-invites.md)
+  * [Manage My Requests](organizations/orgs/manage-my-requests.md)
 * [Org Administration](organizations/org-administration/README.md)
   * [Edit Org Profile](organizations/org-administration/edit-org-profile.md)
   * [Invite Member](organizations/org-administration/invite-member.md)
@@ -70,7 +70,7 @@
 
 * [LinkedIn](https://www.linkedin.com/company/firecal-llc)
 * [Facebook](https://www.facebook.com/profile.php?id=61552961401749)
-* [Instagram](https://instagram.com/firecal\_llc)
-* [Threads](https://www.threads.net/@firecal\_llc)
+* [Instagram](https://instagram.com/firecal_llc)
+* [Threads](https://www.threads.net/@firecal_llc)
 * [Twitter](https://twitter.com/FireCal87505)
-* [Youtube](https://www.youtube.com/channel/UCXrQ6tRkI6EBIjJ\_SBB7njg/?themeRefresh=1)
+* [Youtube](https://www.youtube.com/channel/UCXrQ6tRkI6EBIjJ_SBB7njg/?themeRefresh=1)
