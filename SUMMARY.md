@@ -3,6 +3,7 @@
 ## Getting Started
 
 * [Introduction](README.md)
+* [Downloading CertLocker](getting-started/downloading-certlocker.md)
 * [Registration](getting-started/registration.md)
 * [Settings & Profile](getting-started/settings-and-profile.md)
 * [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
