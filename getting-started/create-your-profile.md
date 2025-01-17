@@ -18,13 +18,13 @@ Tap on the **Edit Profile** button to navigate to the Edit Profile screen.
 
 Tap **Edit Profile Photo**, and choose whether you want to select an image from your Gallery or open up your device's camera. When you choose or take the photo you want, CertLocker will replace the default image.
 
-<figure><img src="../.gitbook/assets/1.0.0-edit-profile.PNG" alt="" width="375"><figcaption></figcaption></figure>
-
 ## Complete Your Profile
 
 Complete the fields shown on the **Edit Profile** screen. CertLocker will autosave as you go! If there's anything you would like to exclude, don't worry about it, none of these fields are required, though certain features like Email & SMS notifications will not work without a valid email address or phone number.
 
 **IMPORTANT**: Updating your email address in your profile only changes the email address we'll use to contact you. In this early version of CertLocker, to update your login address, [please submit a support request](https://form.asana.com/?k=9ZDd1YrRWfsneFrr01xdug\&d=1107920631423484).
+
+<div><figure><img src="../.gitbook/assets/1.0.0-edit-profile.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-edit-profile-complete.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Preview Your Profile
 
