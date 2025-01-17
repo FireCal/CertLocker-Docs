@@ -8,7 +8,7 @@
 * [Create Your Profile](getting-started/create-your-profile.md)
 * [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
 * [Tips & Tricks](getting-started/tips-and-tricks.md)
-* [Join the BETAs](getting-started/join-the-betas.md)
+* [Join the BETA Program](getting-started/join-the-beta-program.md)
 * [Install BETA Releases](getting-started/install-beta-releases/README.md)
   * [BETAs on iOS, iPadOS & macOS](getting-started/install-beta-releases/betas-on-ios-ipados-and-macos.md)
   * [BETAs on Android](getting-started/install-beta-releases/betas-on-android.md)

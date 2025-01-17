@@ -2,9 +2,9 @@
 description: Help us test new CertLocker features, before they're out!
 ---
 
-# Join the BETAs
+# Join the BETA Program
 
-We're releasing our first versions of CertLocker as invite-only, so we can manage the load on our systems, and make sure we've stabilized any unforseen issues, before we roll out more broadly.
+We're releasing our first versions of CertLocker as invite-only, so we can manage the load on our systems, and make sure we've stabilized any unforeseen issues, before we roll out more broadly.
 
 ## Submit Access Request
 
@@ -14,4 +14,4 @@ If you think this app will be helpful to you and you're willing to help us impro
 
 ## Look for an Email Invite
 
-After you submit your request, our team will process as quickly as we can, and you'll receive an email with instructions for installing CertLocker.
+After you submit your request, our team will process as quickly as we can, and you'll receive an email with instructions for getting on the CertLocker BETA.
