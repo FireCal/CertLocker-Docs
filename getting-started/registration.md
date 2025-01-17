@@ -23,6 +23,10 @@ Welcome! Now that you've got the app installed, tap register to create an accoun
 
 Add your full name, you preferred email for authentication and communications from our team, and a secure password (ideally created with a password manager).
 
+{% hint style="info" %}
+**We recommend using your personal email address**, even if you're using CertLocker with an employer organization. CertLocker is build with individual responders in mind, so the Certs _you earn_ can follow you throughout your career.
+{% endhint %}
+
 Make sure your password entries match, and if you need to view them to confirm, use the show/hide buttons in the password fields.
 
 <div><figure><img src="../.gitbook/assets/1.0.0-register-blank.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-register-complete.PNG" alt="" width="375"><figcaption></figcaption></figure></div>

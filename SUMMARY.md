@@ -5,10 +5,9 @@
 * [Introduction](README.md)
 * [Downloading CertLocker](getting-started/downloading-certlocker.md)
 * [Registration](getting-started/registration.md)
-* [Settings & Profile](getting-started/settings-and-profile.md)
+* [Create Your Profile](getting-started/create-your-profile.md)
 * [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
 * [Tips & Tricks](getting-started/tips-and-tricks.md)
-* [Forgotten Password](getting-started/forgotten-password.md)
 * [Join the BETAs](getting-started/join-the-betas.md)
 * [Install BETA Releases](getting-started/install-beta-releases/README.md)
   * [BETAs on iOS, iPadOS & macOS](getting-started/install-beta-releases/betas-on-ios-ipados-and-macos.md)
@@ -39,6 +38,13 @@
   * [Manage Members](organizations/org-administration/manage-members.md)
   * [Manage Invites](organizations/org-administration/manage-invites.md)
   * [Manage Requests](organizations/org-administration/manage-requests.md)
+
+## More
+
+* [More Options](more/more-options.md)
+* [Inbox & Sharing](more/inbox-and-sharing.md)
+* [Settings](more/settings/README.md)
+  * [Forgotten Password](more/settings/forgotten-password.md)
 
 ## Sharing
 
