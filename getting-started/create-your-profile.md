@@ -4,6 +4,8 @@ description: Tell us a bit about you.
 
 # Create Your Profile
 
+Your profile makes it easier for your friends, colleagues, and supervisors to find you in the app and to know it's you when you request to Follow them or join an Organization where you're a Member. Creating a complete profile with a clear image of yourself is a great start to your Career with CertLocker.
+
 ## Tap More at the Bottom
 
 Tapping on the More navbar item at the bottom of the screen will bring you to the More Screen, which provides several options worth exploring. For now, we're going to focus on creating your profile.
