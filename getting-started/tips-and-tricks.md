@@ -70,7 +70,13 @@ When the test completes, you will see results indicating which methods succeeded
 
 ### 7. App Activity Inbox, News & Updates
 
+On your CertLocker Home screen, you can find an Inbox Summary of automated notifications regarding app activities like approaching expirations, training attendance, and org invites, as well as a collection of Recent Updates, which are sent by us at CertLocker to our users with useful information about anything from new features to usage guides, like this one.
 
+<figure><img src="../.gitbook/assets/1.0.0-home-for-inbox.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
+To view these messages in their entirety, you can access your Inbox and Updates screens by tapping the View All buttons on your Home screen or from the More navbar item at the bottom of the app.
+
+<div><figure><img src="../.gitbook/assets/1.0.0-more-for-inbox.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-inbox.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-updates.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### 8. Track Your Usage
 
