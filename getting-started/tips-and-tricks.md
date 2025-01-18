@@ -48,7 +48,11 @@ Search scans any trainings where you're on the Attended list, and will return re
 
 ### 4. Replace & Reset Requirements on Renewal
 
+When you renew a Cert, we recommend you continue to use the same CertLocker record, rather than creating a new one. When you do this, you can access an archive of your certification attachments and all trainings you applied to that round of certification renewal.
 
+<div><figure><img src="../.gitbook/assets/1.0.0-expired.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-select-replacement.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-renewed.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+
+To replace an expired Cert with the renewed one, open the Cert in Edit Cert, then tap "Replace". On the Select Replacement screen, attach a new PDF or image, and enable the Reset Renewal Requirements toggle, if you'd like to reset your Renewal Progress back to zero.
 
 ### 5. Set Sharing & Notification Preferences
 
