@@ -62,7 +62,11 @@ Navigate to the More navbar item at the bottom to access your Sharing Preference
 
 ### 6. Test Notification Methods
 
+To make sure you've configured all the necessary permissions and contact information to receive notifications by every method supported by CertLocker, at the bottom of the Notification Preferences screen, there is a button labeled "Test Delivery Methods," which will attempt to send you test messages via SMS, Email, Push, and In-App Inbox.
 
+<figure><img src="../.gitbook/assets/1.0.0-test-delivery-failed.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
+When the test completes, you will see results indicating which methods succeeded and which failed. If there was a failure, details will be included to help remedy the issue.
 
 ### 7. App Activity Inbox, News & Updates
 
