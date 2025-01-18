@@ -56,7 +56,9 @@ To replace an expired Cert with the renewed one, open the Cert in Edit Cert, the
 
 ### 5. Set Sharing & Notification Preferences
 
+Navigate to the More navbar item at the bottom to access your Sharing Preferences and Notification Preferences. As a new user, go check whether the CertLocker defaults work for you, and if not, set them to your liking.
 
+<div><figure><img src="../.gitbook/assets/1.0.0-sharing-prefs.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-notifications-prefs.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### 6. Test Notification Methods
 
