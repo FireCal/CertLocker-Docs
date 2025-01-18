@@ -40,6 +40,12 @@ Add yourself as the sole user in the Attended list. Finally, if you received a c
 
 #### Apply Org Training to Cert Renewal
 
+You can also apply Training you attended to Cert renewals for Training Records created by someone else, as long as they added you to the Attended list. To do this, navigate to Edit Cert>Renewal Requirements screen (as described in item 2 of this article). Tap the requirement where you'd like to apply training and the UI will expand to reveal an Add Training button. Tap it to search for your training.
+
+<div><figure><img src="../.gitbook/assets/1.0.0-reqs-empty.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-reqs-expand.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-reqs-select.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-reqs-updated.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+
+Search scans any trainings where you're on the Attended list, and will return results matching your text entry to fields like the Title, Description, Location, Trainer's Name, and more. Tap Add on any Training Records that apply to this requirement, and you can even update your search and Add multiple trainings at the same time. Tap Done, and you'll be returned to the Renewal Requirements view to find your progress updated to reflect the CE units earned from the Applied Training.
+
 ### 4. Replace & Reset Requirements on Renewal
 
 
