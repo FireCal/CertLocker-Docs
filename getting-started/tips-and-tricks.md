@@ -10,7 +10,7 @@ description: 15 ways to jumpstart your experience with CertLocker
 
 Navigate to More>Sharing & Followers>Search to find and follow your friends and colleagues in CertLocker, using search terms including their name, contact email/phone, or location.
 
-<div align="left"><figure><img src="../.gitbook/assets/1.0.0-more-sharing.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-friends.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-orgs.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/1.0.0-more-sharing.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-friends.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-orgs.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 You can also find Organizations you belong to, like your employer, the agency where you do gig work, and your volunteer district by going to Orgs>Search.
 
@@ -22,7 +22,7 @@ If you don't find the Org you're looking for, Subscribe at the Officer tier and 
 
 Some Certs have more complex requirements than others (NREMT,  am I right?). CertLocker is ready to help you manage the complexity. Tap the Cert in your locker to load the Edit Cert screen, then tap anywhere on the Renewal Progress bar to open the detailed Renewal Requirements view.
 
-<div align="left"><figure><img src="../.gitbook/assets/1.0.0-cert-edit.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-cert-renewal.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/1.0.0-cert-edit.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-cert-renewal.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### 3. Apply Org & Independent Training to Renewals
 
@@ -30,11 +30,11 @@ Be sure to keep all your training records and certificates of completion in Cert
 
 #### **Create Independent Training Record:** From the Training screen, tap the + button (Fab), then fill in the details of your training. When you reach the Applicable Certs section, tap Add to choose which Cert(s) this training applies to.
 
-<div align="left"><figure><img src="../.gitbook/assets/1.0.0-training.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-training-create.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-applicable-certs.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/1.0.0-training.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-training-create.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-applicable-certs.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Find and select the appropriate Cert, tap Done, then if the Cert includes Components and Requirements, you can specify which this training applies to.
 
-<div align="left"><figure><img src="../.gitbook/assets/1.0.0-add.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-add-select-component.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-training-independent-study.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/1.0.0-add.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-add-select-component.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-training-independent-study.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Add yourself as the sole user in the Attended list. Finally, if you received a certificate for the training you attended, attach it as a PDF or Image under Independent Study, then tap Conclude & Close.
 
