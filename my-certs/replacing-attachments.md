@@ -4,7 +4,7 @@
 
 When looking at your Locker, **Tap a Cert** to open the **Edit Cert** page, then below the **Thumbnail**, tap the **Replace** button to navigate to the **Select Replacement** UI. When you Replace an attachment, the previous version is archived, along with the state and details of your Renewal Progress at the time of replacement.
 
-<div><figure><img src="../.gitbook/assets/1.0.0-editcerts-1.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-replace.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/1.0.0-editcerts-1 (2).PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-replace.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Replace with PDF
 
