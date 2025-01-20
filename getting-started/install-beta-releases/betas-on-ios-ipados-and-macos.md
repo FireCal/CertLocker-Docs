@@ -10,7 +10,7 @@ BETAs on all Apple platforms are installed using TestFlight, which you can downl
 
 ## Look for your invite
 
-When you've been added to the CertLocker BETA on iOS, you'll receive an email from [no\_reply@email.apple.com](mailto:no\_reply@email.apple.com) with Subject: Firecal LLC has invited you to test CertLocker.
+When you've been added to the CertLocker BETA on iOS, you'll receive an email from [no\_reply@email.apple.com](mailto:no_reply@email.apple.com) with Subject: Firecal LLC has invited you to test CertLocker.
 
 In the invite email, tap/click the blue **"View in TestFlight"** button.
 
@@ -52,29 +52,13 @@ When you're on the TestFlight page in the App Store, select "Install" to downloa
 
 TestFlight will request permission to send you notifications, which will let you know when apps you're testing receive updates, or when their expiration date is approaching. Choose your preference, then tap **Continue**.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/3.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/4.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Redeem your Invite Code
 
 Tap the blue Redeem button, then paste the code you copied earlier (tap in the text field and choose Paste on iOS/iPadOS. On macOS, press Command+V or right-click and choose paste). Tap Redeem to confirm. This will grant you access to install CertLocker and view it on the Apps screen in TestFlight.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/5.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/6.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/5.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/6.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Still having trouble?
 

@@ -6,8 +6,8 @@
 * [Downloading CertLocker](getting-started/downloading-certlocker.md)
 * [Registration](getting-started/registration.md)
 * [Create Your Profile](getting-started/create-your-profile.md)
-* [Tips & Tricks](getting-started/tips-and-tricks.md)
 * [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
+* [Tips & Tricks](getting-started/tips-and-tricks.md)
 
 ## My Certs
 
@@ -65,10 +65,10 @@
 * [Release Notes](technical-documentation/release-notes.md)
 * [Privacy Policy](technical-documentation/privacy-policy.md)
 * [Terms of Service](technical-documentation/terms-of-service.md)
-* [Join the BETA Program](technical-documentation/join-the-beta-program.md)
-* [Install BETA Releases](technical-documentation/install-beta-releases/README.md)
-  * [BETAs on iOS, iPadOS & macOS](technical-documentation/install-beta-releases/betas-on-ios-ipados-and-macos.md)
-  * [BETAs on Android](technical-documentation/install-beta-releases/betas-on-android.md)
+* [Join the BETA Program](getting-started/join-the-beta-program.md)
+* [Install BETA Releases](getting-started/install-beta-releases/README.md)
+  * [BETAs on iOS, iPadOS & macOS](getting-started/install-beta-releases/betas-on-ios-ipados-and-macos.md)
+  * [BETAs on Android](getting-started/install-beta-releases/betas-on-android.md)
 * [FireCal LLC Website](https://firecal.app)
 * [CertLocker Website](https://firecal.app/certlocker)
 * [App Store (Soon!)](https://form.asana.com/?k=V-21Aw0bSqWeXF3BOOvLYw\&d=1107920631423484)
