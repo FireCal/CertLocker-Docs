@@ -2,21 +2,17 @@
 
 ## Tap to Open
 
-When looking at your Locker, **Tap a Cert** to open the **Edit Cert** page.
+When looking at your Locker, **Tap a Cert** to open the **Edit Cert** screen.
 
-## Update Text Fields
+## Update Cert Data
 
-Make your changes to the **Name**, **Type**, and **Description** text fields, and your changes will be autosaved as you go. The **CEs Earned** and **CEs Required** fields also autosave, and as they do, you'll see the **Recertification Progress** bar recalculate and update to reflect the new CEs you've earned.
+At the moment, CertLocker does not support changing the **Type** of a Cert once create&#x64;**.**&#x20;
 
-<div>
+For Certs of the type "Other," you can update the **Name, Description**, **CEs Earned**, and **CEs Required** fields, and your changes will be autosaved. For these Certs, you can also use the Apply Training button to assign CEs earned in trainings logged in CertLocker to this Cert.
 
-<figure><img src="../.gitbook/assets/Edit (Before).PNG" alt=""><figcaption></figcaption></figure>
+For Certs with defined **Renewal Requirements**, the CEs Earned & Required fields do not appear, nor does the Apply Training button. Instead, Cert Renewal Progress details are accessed and managed by tapping on the Recertification Progress bar.
 
- 
-
-<figure><img src="../.gitbook/assets/Edit (After) (1).PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/1.0.0-cert-with-reqs.PNG" alt="" width="375"><figcaption><p>Cert with defined requirements (eg. EMT-B)</p></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-cert-without-reqs.PNG" alt="" width="375"><figcaption><p>Cert without defined requirements (eg. Other)</p></figcaption></figure></div>
 
 ## Update Date Fields
 

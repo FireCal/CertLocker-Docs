@@ -10,7 +10,7 @@ When you first access your empty Locker, you'll meet CertBot and see a button to
 
 Before you can upload a Cert, you'll be prompted to review and accept the CertLocker Terms of Service by tapping "**Got it. I'm in."** You can find the complete Terms of Service via a link on the Terms of Service screen, which will bring you to the appropriate page in these docs. Once you accept the Terms of Service, we will record your acknowledgement and direct you to the **Create Cert** screen.
 
-<div><figure><img src="../.gitbook/assets/1.0.0-mycerts-empty.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-mycerts-tos.PNG" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/1.0.0-mycerts-empty.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-mycerts-tos.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 If you're having second thoughts about CertLocker or don't agree with the Terms of Service, tapping "**Sorry. I'm out."** will log you out, and then we'd appreciate [any helpful input you can offer](https://form.asana.com/?d=1107920631423484\&k=QipQafA-VqMyE4VOj0FjYA) on why CertLocker wasn't for you. If you change your mind later, simply login with the account you registered, follow the same steps above, but this time, tap "**Got it. I'm in."**
 
