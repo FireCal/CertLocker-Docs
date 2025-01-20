@@ -82,6 +82,8 @@ To view these messages in their entirety, you can access your Inbox and Updates 
 
 Toward the bottom of the More screen, there is a button called Usage & Debugging, which provides information that you may find useful for support requests, like your User ID, and information you can use to determine whether and when you may be approaching your free tier feature limits.
 
+<figure><img src="../.gitbook/assets/1.0.0-usage.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
 ## Responder Tier
 
 ### 9. Unlimited Certs in Your Locker
@@ -98,7 +100,11 @@ You can always export and share your Certs individually, but with Bulk Shares, C
 
 If you're an Officer or Administrator at a department or other organization that would like to take advantage of CertLocker's ability to help you keep track of your Members' Certs, you can subscribe at the Officer Tier and gain the superpower of Creating and Managing Orgs in CertLocker.
 
+<figure><img src="../.gitbook/assets/1.0.0-subscriptions (1).PNG" alt="" width="188"><figcaption></figcaption></figure>
+
 After you subscribe, navigate to the Orgs navbar item at the bottom, then tap the + icon (or FAB) at the bottom right. Complete the Create Org workflow, and you'll be ready to start inviting members to your new Org.
+
+<div><figure><img src="../.gitbook/assets/1.0.0-orgs-empty.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-create-org.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### 12. Export Other Users' Certs
 
@@ -116,15 +122,21 @@ At the Department Tier, you don't have to ask your members to subscribe individu
 
 Once your Org is onboarded to the Department Tier, you and your Org Admins can manage who is welcomed into the Org in CertLocker, and they'll be granted benefits like Unlimited Certs, Unlimited Bulk Shares, and the ability to utilize Officer/Admin Org Management features (once granted the necessary permissions).
 
+<figure><img src="../.gitbook/assets/1.0.0-enterprise-contract.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
 When it comes time for Billing, CertLocker will determine your usage and related costs, then send a single Invoice to a recipient you designate. [Contact a CertLocker representative](mailto:sales@firecal.app) to learn more about this and other reasons to upgrade your Org to a Department contract.
 
 ### 14. Generate Training Certificates for Attendees
 
 In addition to a streamlined onboarding and billing process, with a Department contract, your Org gains extra powers, including the ability to Generate Training Certificates for confirmed attendees at any trainings where your Officers or Admins set the contracted Org as the Host.
 
+<figure><img src="../.gitbook/assets/1.0.0-generate-certs.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
 ### 15. Get Reports on Renewal Progress, Training Topics & Gaps
 
 As an Officer or Administrator at the end of the year, do you find yourself wondering and worrying about whether your Members are on-track to complete their renewal requirements on-time? Even better: Wouldn't it be nice to identify the biggest gaps in your Org's renewal requirements well before the deadline approaches, when you're planning the training calendar for the year ahead?
+
+<figure><img src="../.gitbook/assets/1.0.0-avg-member-prog.PNG" alt="" width="188"><figcaption></figcaption></figure>
 
 With the Reports add-on, (only available to Orgs contracted at the Department Tier) you can see reports aggregating all your Members' progress toward renewal, broken down by Renewal Components and Requirements.
 
