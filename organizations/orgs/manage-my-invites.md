@@ -4,15 +4,7 @@ On the **Invites** tab, you can find a list of organizations whose administrator
 
 Each inviting organization is displayed on a distinct card which includes the organization's logo, name and a brief overview, including **My Status**. To view more detailed information about an organization, tapping the **Org Card** will take you to the **Org Profile**.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Invites_Empty.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Invites_1.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/1.0.0-orgs-invites-empty.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/1.0.0-orgs-invites-pending.PNG" alt=""><figcaption></figcaption></figure></div>
 
 ## Accepting or Declining an Invitation
 
