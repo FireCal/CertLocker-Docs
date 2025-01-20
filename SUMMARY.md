@@ -9,6 +9,10 @@
 * [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
 * [Tips & Tricks](getting-started/tips-and-tricks.md)
 
+## Home
+
+* [What's on your Homescreen](home/whats-on-your-homescreen.md)
+
 ## My Certs
 
 * [Uploading Certs](my-certs/uploading-certs.md)
@@ -20,6 +24,10 @@
 * [Deleting a Cert](my-certs/deleting-a-cert.md)
 * [Share a Cert](my-certs/share-a-cert.md)
 * [Share Multiple Certs](my-certs/share-multiple-certs.md)
+
+## Training
+
+* [Page 1](training/page-1.md)
 
 ## Organizations
 
