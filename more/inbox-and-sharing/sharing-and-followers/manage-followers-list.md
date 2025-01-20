@@ -4,15 +4,7 @@
 
 Access the Followers List from the Sharing Tab, where both Approved and Pending Followers will appear.
 
-<div>
-
-<figure><img src="../.gitbook/assets/followers-pending.PNG" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/followers-approved.PNG" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/followers-pending.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/followers-approved.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Approve or Deny Followers
 

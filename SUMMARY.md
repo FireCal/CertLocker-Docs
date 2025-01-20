@@ -46,19 +46,22 @@
 ## More
 
 * [More Options](more/more-options.md)
-* [Inbox & Sharing](more/inbox-and-sharing.md)
+* [Inbox & Sharing](more/inbox-and-sharing/README.md)
+  * [Sharing & Followers](more/inbox-and-sharing/sharing-and-followers/README.md)
+    * [Find Users to Follow](more/inbox-and-sharing/sharing-and-followers/find-users-to-follow.md)
+    * [Manage Following List](more/inbox-and-sharing/sharing-and-followers/manage-following-list.md)
+    * [Manage Followers List](more/inbox-and-sharing/sharing-and-followers/manage-followers-list.md)
+    * [Viewing User Profiles](more/inbox-and-sharing/sharing-and-followers/viewing-user-profiles.md)
+    * [Viewing & Sharing User Certs](more/inbox-and-sharing/sharing-and-followers/viewing-and-sharing-user-certs.md)
+  * [Sharing Preferences](more/inbox-and-sharing/sharing-preferences.md)
+  * [Notification Preferences](more/inbox-and-sharing/notification-preferences.md)
+  * [News & Updates](more/inbox-and-sharing/news-and-updates.md)
 * [Settings](more/settings/README.md)
-  * [Forgotten Password](more/settings/forgotten-password.md)
-
-## Sharing
-
-* [Share a Cert](sharing/share-a-cert.md)
-* [Share Multiple Certs](sharing/share-multiple-certs.md)
-* [Find Users to Follow](sharing/find-users-to-follow.md)
-* [Manage Following List](sharing/manage-following-list.md)
-* [Manage Followers List](sharing/manage-followers-list.md)
-* [Viewing User Profiles](sharing/viewing-user-profiles.md)
-* [Viewing & Sharing User Certs](sharing/viewing-and-sharing-user-certs.md)
+  * [Edit Profile](more/settings/edit-profile.md)
+  * [Subscriptions](more/settings/subscriptions.md)
+  * [Change Password](more/settings/change-password.md)
+  * [Usage & Debugging](more/settings/usage-and-debugging.md)
+  * [Light/Dark Mode](more/settings/light-dark-mode.md)
 
 ## Support & Feedback
 
