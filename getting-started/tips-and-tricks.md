@@ -96,11 +96,17 @@ You can always export and share your Certs individually, but with Bulk Shares, C
 
 ### 11. Create Orgs
 
+If you're an Officer or Administrator at a department or other organization that would like to take advantage of CertLocker's ability to help you keep track of your Members' Certs, you can subscribe at the Officer Tier and gain the superpower of Creating and Managing Orgs in CertLocker.
 
+After you subscribe, navigate to the Orgs navbar item at the bottom, then tap the + icon (or FAB) at the bottom right. Complete the Create Org workflow, and you'll be ready to start inviting members to your new Org.
 
 ### 12. Export Other Users' Certs
 
+As an Officer or Administrator, you know you may need to download your Members' Certs from time to time to print them and put them in an official hard-copy filing cabinet, or to validate those Certs, or for any number of compliance reasons. By subscribing at the Officer Tier, you can perform individual or Bulk Share operations of other users' Certs (as long as they've allowed this in their privacy and sharing permissions).
 
+{% hint style="info" %}
+If you're unable to export Certs for a user you've been approved to Follow or who has joined an Org where you're an Officer or Admin, direct them to check their Sharing Preferences on the More screen and ensure they've enabled the necessary permissions to make this feature available.
+{% endhint %}
 
 ## Department Tier
 
