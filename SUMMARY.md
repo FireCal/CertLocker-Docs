@@ -11,7 +11,7 @@
 
 ## Home
 
-* [What's on your Homescreen](home/whats-on-your-homescreen.md)
+* [Home Tour](home/home-tour.md)
 
 ## My Certs
 
