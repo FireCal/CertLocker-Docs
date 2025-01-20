@@ -1,10 +1,18 @@
 # Manage Members
 
-Managing an organization's members requires the **Admin** role. When viewing an **Org Profile**, users with the **Admin** role will see a **Manage** button in the top right corner.
+Managing an organization's members requires the **Admin** role. Check your role by navigating to the Orgs tab, the look at the Org in question to find "My Status". If you're an Admin, your status will be **Administrator**. When viewing an **Org Profile** as an **Admin**, you will see a **Manage** button in the top right corner.
 
-<figure><img src="../../.gitbook/assets/Org_Profile.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.0.0-orgs-manage.PNG" alt="" width="188"><figcaption></figcaption></figure>
 
-Tapping the **Manage** button will navigate to the **Manage Organization** page. Tap the **Members** tab to see a searchable list of **Members**. A Member's **Status** shows which roles that Member has in the **Organization** you're managing.
+Tapping the **Manage** button will navigate to the **Manage Org** screen, then tap **Manage Members** to access the Org Members screen. Here you can see a searchable list of **Members** and tabs for the **Org's** pending **Invites** and **Requests**.
+
+The **List Item** for each member is swipable to access options for managing that user's relationship to the **Org**. The **Admin** and **Officer** buttons are toggles, so tapping one of them will enable or disable the named role, depending on whether the user already has that role.
+
+<div><figure><img src="../../.gitbook/assets/1.0.0-orgs-members.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/1.0.0-orgs-members-swiped.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
+
+When managing **User Roles**, reference the **Status** indicator on the user list item to check which roles the listed user has or doesn't have already. When changing roles, a **Success Message** will appear at the bottom when we've finished processing your request.
+
+Finally, in the event that the **Organization** you're managing has parted ways with a listed **User**, the **Remove** button will remove them from the Organization.
 
 ## Invite Members
 
@@ -29,13 +37,3 @@ An organization can receive **Requests** from users who would like to be admitte
 Managing an organization's **Requests** requires the **Admin** role. From the **Org Profile**, users with the **Admin** role will see a **Manage** button in the top right corner of the page. Tapping **Manage** will open the **Manage Organization** page. To manage requests, tap on the **Requests** tab. When an organization doesn't have any **Pending Requests**, an empty list image will display, otherwise **Pending Requests** will be listed and include **Approve** and **Deny** buttons, which can be tapped to respond to an **Org Join Request**.
 
 <div><figure><img src="../../.gitbook/assets/Manage_Org_Requests_Empty.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Manage_Org_Requests_1.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-<figure><img src="../../.gitbook/assets/Search_Org_Members_Blank.PNG" alt="" width="375"><figcaption></figcaption></figure>
-
-The **List Item** for each member is swipable to access options for managing that user's relationship to the **Org**. The **Admin** and **Officer** buttons are toggles, so tapping one of them will enable or disable the named role, depending on whether the user already has that role.
-
-When managing **User Roles**, reference the **Status** indicator on the user list item to check which roles the listed user has or doesn't have already. When changing roles, a **Success Message** will appear at the bottom when we've finished processing your request.
-
-Finally, in the event that the **Organization** you're managing has parted ways with a listed **User**, the **Remove** button will remove them from the Organization.
-
-<figure><img src="../../.gitbook/assets/Org_Member_Options.PNG" alt="" width="375"><figcaption></figcaption></figure>
