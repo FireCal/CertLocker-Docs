@@ -110,15 +110,23 @@ If you're unable to export Certs for a user you've been approved to Follow or wh
 
 ## Department Tier
 
-### 13. Generate Training Certificates for Attendees
+### 13. Automatic Onboarding and Consolidated Invoicing for Your Members
 
+At the Department Tier, you don't have to ask your members to subscribe individually, then sort out reimbursement for In-App purchases made by each of your members to get the most out of CertLocker.
 
+Once your Org is onboarded to the Department Tier, you and your Org Admins can manage who is welcomed into the Org in CertLocker, and they'll be granted benefits like Unlimited Certs, Unlimited Bulk Shares, and the ability to utilize Officer/Admin Org Management features (once granted the necessary permissions).
 
-### 14. Get Reports on Renewal Progress Org-Wide
+When it comes time for Billing, CertLocker will determine your usage and related costs, then send a single Invoice to a recipient you designate. [Contact a CertLocker representative](mailto:sales@firecal.app) to learn more about this and other reasons to upgrade your Org to a Department contract.
 
+### 14. Generate Training Certificates for Attendees
 
+In addition to a streamlined onboarding and billing process, with a Department contract, your Org gains extra powers, including the ability to Generate Training Certificates for confirmed attendees at any trainings where your Officers or Admins set the contracted Org as the Host.
 
-### 15. Get Reports on Org Training Topics & Gaps
+### 15. Get Reports on Renewal Progress, Training Topics & Gaps
 
+As an Officer or Administrator at the end of the year, do you find yourself wondering and worrying about whether your Members are on-track to complete their renewal requirements on-time? Even better: Wouldn't it be nice to identify the biggest gaps in your Org's renewal requirements well before the deadline approaches, when you're planning the training calendar for the year ahead?
 
+With the Reports add-on, (only available to Orgs contracted at the Department Tier) you can see reports aggregating all your Members' progress toward renewal, broken down by Renewal Components and Requirements.
+
+This way you can recognize that you've covered Medical for most of your members, while Airway hasn't gotten enough attention, then adjust your training topics accordingly.
 
