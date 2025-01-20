@@ -6,16 +6,8 @@ While viewing your Locker, tap the Share Icon in the top right corner of the scr
 
 Tap the **Multiselect Checkboxes** beside the Certs you'd like to share, and you'll see the **Selected Counter** increase with each selection.
 
-<div>
-
-<figure><img src="../.gitbook/assets/My Certs After Update.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Share Multiselect.PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/1.0.0-my-certs.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-multiselect.PNG" alt=""><figcaption></figcaption></figure></div>
 
 Tap **Share** at the bottom of the screen, and CertLocker will create a **Combined PDF** of all the Certs you selected.
 
-The **Share Sheet** for your device's platform will appear, offering Share destinations for a link to download the **Combined PDF** of your **Cert Selections**. Choose where you'd like to Share the selected Certs, and complete the appropriate steps for your destination.
+Your Combined PDF will be opened in your platform's browser, and from there you can share or download to any location of your choosing.
