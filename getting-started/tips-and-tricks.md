@@ -15,7 +15,7 @@ Navigate to More>Sharing & Followers>Search to find and follow your friends and 
 You can also find Organizations you belong to, like your employer, the agency where you do gig work, and your volunteer district by going to Orgs>Search.
 
 {% hint style="info" %}
-If you don't find the Org you're looking for, Subscribe at the Officer tier and you can tap the + button (FAB) at the bottom to create a new Org (but only if you're authorized to do so).
+If you don't find the Org you're looking for, Subscribe at the Officer tier and you can tap the + button (FAB) at the bottom to create a new Org (_if_ you're authorized to do so).
 {% endhint %}
 
 ### 2. Access Detailed Renewal Progress
@@ -86,11 +86,11 @@ Toward the bottom of the More screen, there is a button called Usage & Debugging
 
 ### 9. Unlimited Certs in Your Locker
 
-
+At the Free Tier, your Certs uploads are capped. If you run into these Free Tier limits, upgrade to the Responder Tier to upload all the Certs you've worked hard to earn.
 
 ### 10. Unlimited Bulk Shares as PDF/ZIP
 
-
+You can always export and share your Certs individually, but with Bulk Shares, CertLocker makes it easy to select the Certs you've been requested to supply (perhaps for a new job or new initiative at your current job) and export them, either as a single PDF or collected into a .zip file. At the Free Tier, these Bulk Shares are capped, so if your usage reaches those limits, upgrade to the Responder Tier to get unlimited Bulk Shares.
 
 ## Officer Tier
 
