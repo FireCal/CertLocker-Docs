@@ -36,11 +36,14 @@
   * [Manage My Invites](organizations/orgs/manage-my-invites.md)
   * [Manage My Requests](organizations/orgs/manage-my-requests.md)
 * [Org Administration](organizations/org-administration/README.md)
-  * [Edit Org Profile](organizations/org-administration/edit-org-profile.md)
-  * [Invite Member](organizations/org-administration/invite-member.md)
   * [Manage Members](organizations/org-administration/manage-members.md)
-  * [Manage Invites](organizations/org-administration/manage-invites.md)
-  * [Manage Requests](organizations/org-administration/manage-requests.md)
+  * [Manage Member Certs](organizations/org-administration/manage-member-certs.md)
+  * [Create Training Record](organizations/org-administration/create-training-record.md)
+  * [Manage Training Records](organizations/org-administration/manage-training-records.md)
+  * [Edit Org Profile](organizations/org-administration/edit-org-profile.md)
+  * [Report Preferences](organizations/org-administration/report-preferences.md)
+  * [Training Certificate Generations](organizations/org-administration/training-certificate-generations.md)
+  * [Enterprise Contract](organizations/org-administration/enterprise-contract.md)
 
 ## More
 
