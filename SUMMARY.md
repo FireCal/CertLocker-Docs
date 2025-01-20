@@ -16,11 +16,10 @@
 ## My Certs
 
 * [Uploading Certs](my-certs/uploading-certs.md)
-* [Updating Cert Data](my-certs/updating-cert-data.md)
-* [Replacing Attachments](my-certs/replacing-attachments.md)
 * [Viewing Certs](my-certs/viewing-certs.md)
 * [Tracking CE Progress](my-certs/tracking-ce-progress.md)
-* [Expiration Notifications](my-certs/expiration-notifications.md)
+* [Updating Cert Data](my-certs/updating-cert-data.md)
+* [Replacing Attachments](my-certs/replacing-attachments.md)
 * [Deleting a Cert](my-certs/deleting-a-cert.md)
 * [Share a Cert](my-certs/share-a-cert.md)
 * [Share Multiple Certs](my-certs/share-multiple-certs.md)
