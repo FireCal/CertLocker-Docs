@@ -37,13 +37,14 @@
   * [Manage My Requests](organizations/orgs/manage-my-requests.md)
 * [Org Administration](organizations/org-administration/README.md)
   * [Manage Members](organizations/org-administration/manage-members.md)
-  * [Manage Member Certs](organizations/org-administration/manage-member-certs.md)
   * [Create Training Record](organizations/org-administration/create-training-record.md)
   * [Manage Training Records](organizations/org-administration/manage-training-records.md)
   * [Edit Org Profile](organizations/org-administration/edit-org-profile.md)
-  * [Report Preferences](organizations/org-administration/report-preferences.md)
-  * [Training Certificate Generations](organizations/org-administration/training-certificate-generations.md)
-  * [Enterprise Contract](organizations/org-administration/enterprise-contract.md)
+  * [Enterprise Contract Features](organizations/org-administration/enterprise-contract-features/README.md)
+    * [Enterprise Contract](organizations/org-administration/enterprise-contract-features/enterprise-contract.md)
+    * [Manage Member Certs](organizations/org-administration/enterprise-contract-features/manage-member-certs.md)
+    * [Report Preferences](organizations/org-administration/enterprise-contract-features/report-preferences.md)
+    * [Training Certificate Generation](organizations/org-administration/enterprise-contract-features/training-certificate-generation.md)
 
 ## More
 

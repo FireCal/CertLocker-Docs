@@ -1,2 +1,0 @@
-# Training Certificate Generations
-
