@@ -6,12 +6,9 @@
 * [Downloading CertLocker](getting-started/downloading-certlocker.md)
 * [Registration](getting-started/registration.md)
 * [Create Your Profile](getting-started/create-your-profile.md)
+* [Homescreen](getting-started/homescreen.md)
 * [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
 * [Tips & Tricks](getting-started/tips-and-tricks.md)
-
-## Home
-
-* [Home Tour](home/home-tour.md)
 
 ## My Certs
 
