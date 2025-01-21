@@ -2,7 +2,7 @@
 
 Managing an organization's members requires the **Admin** role. Check your role by navigating to the Orgs tab, the look at the Org in question to find "My Status". If you're an Admin, your status will be **Administrator**. When viewing an **Org Profile** as an **Admin**, you will see a **Manage** button in the top right corner.
 
-<figure><img src="../../.gitbook/assets/1.0.0-orgs-manage.PNG" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.0.0-orgs-manage.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 Tapping the **Manage** button will navigate to the **Manage Org** screen, then tap **Manage Members** to access the Org Members screen. Here you can see a searchable list of **Members** and tabs for the **Org's** pending **Invites** and **Requests**.
 
