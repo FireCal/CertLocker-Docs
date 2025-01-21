@@ -26,7 +26,9 @@
 
 ## Training
 
-* [Page 1](training/page-1.md)
+* [Create a Training Record](training/create-a-training-record.md)
+* [Upcoming Training](training/upcoming-training.md)
+* [Training History](training/training-history.md)
 
 ## Organizations
 
