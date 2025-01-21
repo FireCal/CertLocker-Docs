@@ -16,19 +16,19 @@ Finally, in the event that the **Organization** you're managing has parted ways 
 
 ## Invite Members
 
-To Invite a new member to an organization, an Admin role is required. With that role, from any tab on the Manage Organization page, tap the Floating Action Button (FAB) to be taken to the Invite to Org page.
+To Invite a new member to an organization, an Admin role is required. With that role, from any tab on the Org Members screen, tap the Floating Action Button (FAB) to be taken to the Invite to Org screen.
 
-<div><figure><img src="../../.gitbook/assets/Edit_Org_Profile.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Invite_To_Org_Search_Blank.PNG" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1.0.0-orgs-members.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/1.0.0-orgs-invite-search-empty.PNG" alt=""><figcaption></figcaption></figure></div>
 
 This page includes a user seach bar, which will live update with results as you type. Enter any details about the user you'd like to invite, and when you see the correct user, tap the Invite button.
 
-<figure><img src="../../.gitbook/assets/Invite_To_Org_Search_Filled.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.0.0-orgs-invite-search-filled.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Manage Invites
 
-Managing an organization's **Invites** requires the **Admin** role. From the **Org Profile**, users with the **Admin** role will see a **Manage** button in the top right corner of the page. Tapping **Manage** will open the **Manage Organization** page. To manage invites, tap on the **Invites** tab. When an organization doesn't have any **Pending Invites**, an empty list image will display, otherwise **Pending Invites** will be listed and include a **Revoke** button, which can be tapped to unsend an **Org Invite**.
+To manage pending invites, tap on the **Invites** tab. When an organization doesn't have any **Pending Invites**, an empty list image will display, otherwise **Pending Invites** will be listed and include a **Revoke** button, which can be tapped to unsend an **Org Invite**.
 
-<div><figure><img src="../../.gitbook/assets/Manage_Org_Invites_Empty.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Manage_Org_Invites_1.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1.0.0-orgs-invites.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/1.0.0-orgs-invites-2.PNG" alt=""><figcaption></figcaption></figure></div>
 
 ## Manage Requests
 
