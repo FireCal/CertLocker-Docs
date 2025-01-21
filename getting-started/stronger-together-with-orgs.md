@@ -10,4 +10,4 @@ CertLocker is built to work for you, but like on any incident scene, you can do 
 
 As an Org, you and your teammates can view collective progress on renewal requirements and plan training to fill the common gaps on the team. When you finish, log trainings you complete together and even have CertLocker generate Training Certificates on behalf of your validated organization, so members in attendance get CE credit when renewal time arrives.
 
-To get started, tap the Orgs navbar item at the bottom of the app and look around. For detailed help Finding or Creating your Org in CertLocker, check out the [Organizations documentation](../organizations/orgs/).
+To get started, tap the Orgs navbar item at the bottom of the app and look around. For detailed help Finding or Creating your Org in CertLocker, check out the [Organizations documentation](../organizations/orgs.md).
