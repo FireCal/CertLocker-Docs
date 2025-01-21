@@ -41,7 +41,7 @@
   * [Manage Training Records](organizations/org-administration/manage-training-records.md)
   * [Edit Org Profile](organizations/org-administration/edit-org-profile.md)
   * [Enterprise Contract Features](organizations/org-administration/enterprise-contract-features/README.md)
-    * [Enterprise Contract](organizations/org-administration/enterprise-contract-features/enterprise-contract.md)
+    * [Enterprise Contract Overview](organizations/org-administration/enterprise-contract-features/enterprise-contract-overview.md)
     * [Manage Member Certs](organizations/org-administration/enterprise-contract-features/manage-member-certs.md)
     * [Report Preferences](organizations/org-administration/enterprise-contract-features/report-preferences.md)
     * [Training Certificate Generation](organizations/org-administration/enterprise-contract-features/training-certificate-generation.md)
