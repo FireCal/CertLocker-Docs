@@ -1,2 +1,6 @@
-# Page 1
+---
+icon: hourglass-clock
+---
+
+# Create a Training Record
 

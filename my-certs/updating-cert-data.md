@@ -20,11 +20,11 @@ For Certs with defined **Renewal Requirements**, the CEs Earned & Required field
 
 Tap on **Certification Date** or **Expiration Date** to call up a date picker and make changes. When you confirm your changes, they'll be saved to the database. To change the **Expiration Date** to Never, tap the **Cancel Icon,** and the change to Never will be saved.
 
-### Update Expiration Reminders
+## Update Expiration Reminders
 
 To change when you'll be reminded about approaching Expiration Dates, tap the Expiration Reminders expandable card to reveal the UI for setting a value and unit.&#x20;
 
-### Mark as Private
+## Mark as Private
 
 To change the privacy setting for this Cert, simply check or uncheck the Mark as Private checkbox.
 
