@@ -1,0 +1,2 @@
+# View a Training Record
+
