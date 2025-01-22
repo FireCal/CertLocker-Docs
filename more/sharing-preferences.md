@@ -1,5 +1,8 @@
 ---
 icon: hourglass-clock
+description: >-
+  This section allows you to determine who can find and view your profile and
+  your Certs.
 ---
 
 # Sharing Preferences
