@@ -51,6 +51,7 @@
 ## More
 
 * [More Options](more/more-options.md)
+* [Inbox](more/inbox.md)
 * [Sharing & Followers](more/sharing-and-followers/README.md)
   * [Find Users to Follow](more/sharing-and-followers/find-users-to-follow.md)
   * [Manage Following List](more/sharing-and-followers/manage-following-list.md)
