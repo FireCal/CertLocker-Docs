@@ -23,10 +23,10 @@
 
 ## Training
 
-* [Create a Training Record](training/create-a-training-record.md)
-* [Edit a Training Record](training/edit-a-training-record.md)
 * [Upcoming Training](training/upcoming-training.md)
 * [Training History](training/training-history.md)
+* [Create a Training Record](training/create-a-training-record.md)
+* [Edit a Training Record](training/edit-a-training-record.md)
 * [View a Training Record](training/view-a-training-record.md)
 
 ## Organizations

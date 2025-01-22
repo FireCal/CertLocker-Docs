@@ -54,9 +54,11 @@ For features requiring a Department Tier contract, such as Training Certificate 
 
 ## Generating Training Certificates
 
-Finally, if you've set a Host Org with a Department Tier contract that includes Generating Training Certificates, you'll be able to toggle on the Generate Certificates switch.
+Finally, if you've set a Host Org with a Department Tier contract that includes Generating Training Certificates, you'll be able to toggle on the Generate Certificates switch. This will reveal the Certificate Signature Settings, where you can view your Host Org's Default Certificate Signature.
 
+If you'd like to replace the Default Signature with a signature by the Training Provider, you can expand this section, sign in the provided UI, then tap Save. If you'd like to revert to the Default, simply tap the circular arrow in the bottom right corner of the signing UI.
 
+<div><figure><img src="../.gitbook/assets/1.0.0-create-training-gen-certs (1).PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-create-training-change-sign-2.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-create-training-change-sign-3.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Important Before Concluding
 
@@ -68,10 +70,18 @@ For Trainings that have already concluded, be sure to complete your Training's A
 
 Some fields are required to properly save a new training, so be sure to check empty fields for indicators of their necessity, if the Conclude & Close or Create Training buttons don't succeed.
 
-<div><figure><img src="../.gitbook/assets/1.0.0-training-new-empty-3 (dark).PNG" alt="" width="375"><figcaption><p>"Conclude &#x26; Close" Past Trainings</p></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-training-new-empty-3-future (dark).PNG" alt="" width="375"><figcaption><p>"Create Training" for Future Trainings</p></figcaption></figure></div>
+### Create vs Conclude
+
+Note the difference between the Conclude & Close vs Create Training buttons below, which appear when appropriate, depending on whether the training has already occurred or will occur in the future. If you're seeing the wrong button, double check the Date and Time set for your Training.
 
 {% hint style="info" %}
-Note the difference between the Conclude & Close vs Create Training buttons below, which appear when appropriate, depending on whether the training has already occurred or will occur in the future.
-
 These buttons execute different actions to fit the context, for example Create Training will send Invites for a future Training, while Conclude will not. Similarly, Conclude will Generate Certificates for listed Attendees as soon as you tap it, while Create Training will not.
 {% endhint %}
+
+<div><figure><img src="../.gitbook/assets/1.0.0-training-new-empty-3 (dark).PNG" alt="" width="375"><figcaption><p>"Conclude &#x26; Close" Past Trainings</p></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-training-new-empty-3-future (dark).PNG" alt="" width="375"><figcaption><p>"Create Training" for Future Trainings</p></figcaption></figure></div>
+
+## Training Added
+
+After you've created your Training Record, you'll be taken to the Training screen, where it will appear in the Upcoming or History tab.
+
+<figure><img src="../.gitbook/assets/1.0.0-training-upcoming-invited.PNG" alt="" width="375"><figcaption></figcaption></figure>
