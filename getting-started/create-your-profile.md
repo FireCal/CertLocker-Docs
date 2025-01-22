@@ -10,7 +10,7 @@ Your profile makes it easier for your friends, colleagues, and supervisors to fi
 
 Tapping on the More navbar item at the bottom of the screen will bring you to the More Screen, which provides several options worth exploring. For now, we're going to focus on creating your profile.
 
-<figure><img src="../.gitbook/assets/1.0.0-more.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.0.0-more-1.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Edit Profile
 

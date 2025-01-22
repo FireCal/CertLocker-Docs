@@ -10,7 +10,7 @@ description: 15 ways to jumpstart your experience with CertLocker
 
 Navigate to More>Sharing & Followers>Search to find and follow your friends and colleagues in CertLocker, using search terms including their name, contact email/phone, or location.
 
-<div align="center"><figure><img src="../.gitbook/assets/1.0.0-more-sharing.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-friends.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-orgs.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/1.0.0-more-1.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-friends.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-find-orgs.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 You can also find Organizations you belong to, like your employer, the agency where you do gig work, and your volunteer district by going to Orgs>Search.
 
@@ -76,7 +76,7 @@ On your CertLocker Home screen, you can find an Inbox Summary of automated notif
 
 To view these messages in their entirety, you can access your Inbox and Updates screens by tapping the View All buttons on your Home screen or from the More navbar item at the bottom of the app.
 
-<div><figure><img src="../.gitbook/assets/1.0.0-more-for-inbox.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-inbox.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-updates.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/1.0.0-more-1.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-inbox.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.0.0-updates.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### 8. Track Your Usage
 
