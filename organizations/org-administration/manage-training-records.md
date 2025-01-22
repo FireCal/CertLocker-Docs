@@ -14,4 +14,4 @@ If you'd like to create a Training hosted by any Org where you're an Admin, by d
 
 If you're the creator of a training on the list, you can also cancel the Training, removing it from all engaged Users' training lists. For Concluded trainings, Cancelling will also delete any Generated Certificates.
 
-<div><figure><img src="../../.gitbook/assets/1.0.0-org-manage-training-upcoming.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/1.0.0-org-manage-training-concluded.PNG.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1.0.0-org-manage-training-upcoming (1).PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/1.0.0-org-manage-training-concluded.PNG.PNG" alt="" width="375"><figcaption></figcaption></figure></div>

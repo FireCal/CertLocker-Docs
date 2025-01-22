@@ -32,6 +32,7 @@
 ## Organizations
 
 * [Orgs](organizations/orgs.md)
+* [Browse Org Trainings](organizations/browse-org-trainings.md)
 * [Create an Org](organizations/create-an-org.md)
 * [Finding & Joining Orgs](organizations/finding-and-joining-orgs.md)
 * [Manage My Invites](organizations/manage-my-invites.md)
