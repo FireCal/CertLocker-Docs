@@ -20,7 +20,7 @@ By using the CertLocker app, you agree to the collection, use, and storage of yo
 
 **User Content and Conduct**
 
-You are responsible for all content you upload, share, or otherwise make available via the app. Content uploaded must align with the app’s purpose: tracking certifications and related information. Users must not use the app to store, share, or distribute any unrelated, illicit, or illegal content. FireCal LLC reserves the right to remove any content or restrict access to users who violate these terms.
+You are responsible for all content you upload, share, or otherwise make available via the app. Content uploaded must align with the app’s purpose: tracking certifications and related information. You assume all responsibility if you grant other users or third parties access to your information, and you acknowledge that FireCal LLC is not liable for any misuse of your content by those parties. Users must not use the app to store, share, or distribute any unrelated, illicit, or illegal content (including, without limitation, content that is unlawful, obscene, defamatory, or that includes child sexual abuse material). FireCal LLC reserves the right to remove any content or restrict access to users who violate these terms and may report violations to relevant authorities if appropriate.
 
 **Third-Party Services**
 
