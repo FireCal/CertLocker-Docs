@@ -3,13 +3,14 @@
 ## Getting Started
 
 * [Introduction](README.md)
-* [CertLocker for Mobile](getting-started/downloading-certlocker.md)
-* [CertLocker for Web](getting-started/certlocker-for-web.md)
+* [Access on Mobile](getting-started/access-on-mobile.md)
+* [Access on Web](getting-started/access-on-web.md)
 * [Registration](getting-started/registration.md)
 * [Create Your Profile](getting-started/create-your-profile.md)
 * [Homescreen](getting-started/homescreen.md)
 * [Stronger Together with Orgs](getting-started/stronger-together-with-orgs.md)
 * [Tips & Tricks](getting-started/tips-and-tricks.md)
+* [Mobile vs Desktop/Tablet/Web](getting-started/mobile-vs-desktop-tablet-web.md)
 
 ## My Certs
 
