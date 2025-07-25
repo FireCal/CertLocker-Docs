@@ -16,6 +16,8 @@ With CertLocker, you can also **track your training, and the training records of
 
 If you're working on CEs with friends who also work in the field, follow each other in the app to provide accountability and stay on track for renewal.
 
+<figure><img src=".gitbook/assets/multiproduct-dark.png" alt=""><figcaption><p>CertLocker adjusts to fit any screen. To get around on small screens, use the bottom navbar. On large screens, use the sidebar.</p></figcaption></figure>
+
 If you need help along the way, start with this documentation. We hope this app serves you well, and we've got a bunch of ideas for how we can do more for you. We're eager to hear from you about how we can improve existing features, and what you'd like to see added. Contact us for support and feature requests at [https://firecal.app/feedback](https://firecal.app/feedback).
 
 We know you want to focus on what you've trained for and not get bogged down with wrangling your Certs. That's why we built CertLocker.
