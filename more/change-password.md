@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Change Password
 
 If you would like to change your password, whether you forgot it (but are still logged in) or just want to make it more challenging and secure, navigate to More, then tap Change Password. Enter the email address you used to register your account, then tap Send Link.

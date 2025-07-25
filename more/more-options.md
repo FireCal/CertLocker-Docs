@@ -1,5 +1,4 @@
 ---
-icon: hourglass-clock
 description: Find your Inbox, Settings, and Preferences
 ---
 

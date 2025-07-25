@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Viewing User Profiles
 
 ## Navigating to User Profiles

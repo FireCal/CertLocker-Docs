@@ -1,5 +1,4 @@
 ---
-icon: hourglass-clock
 description: Light side, dark side? Choose you must.
 ---
 

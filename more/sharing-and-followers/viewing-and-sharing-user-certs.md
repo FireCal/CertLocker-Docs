@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Viewing & Sharing User Certs
 
 ## From the User Profile

@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Upcoming Training
 
 The Upcoming tab displays a list of Trainings scheduled for a future date, where you've engaged; whether by receiving an Invite or Registering via the Training screen of an Org where you are a Member. Tap a Training in the list to see more details. You can also Accept and Decline Invites or tap Decline to Unregister from a Training directly on this screen.

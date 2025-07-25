@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Find Users to Follow
 
 ## Navigate to the Sharing Tab

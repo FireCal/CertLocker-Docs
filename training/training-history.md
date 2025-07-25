@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Training History
 
 The History tab displays a list of Trainings in the past, where you engaged; whether by receiving an Invite, Registering via the Training screen of an Org where you are a Member, or being logged as an Attendee by the Training Creator.

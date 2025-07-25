@@ -1,5 +1,4 @@
 ---
-icon: hourglass-clock
 description: >-
   This section allows you to determine how and when CertLocker will notify you
   about various app events.

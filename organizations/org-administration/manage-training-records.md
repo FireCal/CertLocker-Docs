@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Manage Training Records
 
 As an Org Admin, you can Manage Training Records where your Org has been added as a Participating Org. These lists are found in two tabs: **Upcoming** for Trainings scheduled in the future, and **Concluded** for Trainings scheduled in the past.

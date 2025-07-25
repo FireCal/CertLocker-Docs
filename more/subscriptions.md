@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Subscriptions
 
 When you're ready to get more out of CertLocker, navigate to More, then tap Subscriptions. Consider your needs, and tap Choose Plan to select the best fit for you. Tab the Subscribe button that accompanies the tier and duration you've chosen, then complete the purchase flow on your device platform to complete the Subscription via In-App Purchase.

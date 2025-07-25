@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [Introduction](README.md)
-* [Downloading CertLocker](getting-started/downloading-certlocker.md)
+* [CertLocker for Mobile](getting-started/certlocker-for-mobile.md)
 * [Registration](getting-started/registration.md)
 * [Create Your Profile](getting-started/create-your-profile.md)
 * [Homescreen](getting-started/homescreen.md)

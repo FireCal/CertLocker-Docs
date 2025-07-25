@@ -1,5 +1,4 @@
 ---
-icon: hourglass-clock
 description: >-
   This section provides occasional information from CertLocker about new app
   features and helpful guides to make the most of your app experience.

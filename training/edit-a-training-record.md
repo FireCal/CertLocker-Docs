@@ -1,7 +1,3 @@
----
-icon: hourglass-clock
----
-
 # Edit a Training Record
 
 In CertLocker, edits can be made to a Training Record until it is marked as Concluded. This constraint helps ensure Training Record data and Certificate Generation remain consistent for all users involved.&#x20;
