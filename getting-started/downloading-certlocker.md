@@ -2,7 +2,7 @@
 description: Find us on the App Store and Google Play
 ---
 
-# Downloading CertLocker
+# CertLocker for Mobile
 
 CertLocker is available for iOS and Android. Use the links below to find CertLocker in your App Store of choice. Tap **Get** or **Install**, and once it's finished downloading, open the app to register.
 
